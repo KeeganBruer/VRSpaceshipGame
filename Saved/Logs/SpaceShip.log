@@ -1980,3 +1980,1644 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.17-06.16.04:882][191]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom351018514B8DAB02E9344383A04A4D13.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
 [2022.03.17-06.16.04:913][191]AssetCheck: New page: Asset Save: EngineRoom
 [2022.03.17-06.16.04:913][191]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.17-06.20.51:713][382]LogEditorViewport: Clicking on Actor (LMB): ButtonActor_C (ButtonActor)
+[2022.03.17-06.20.57:065][744]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/ButtonActor.ButtonActor
+[2022.03.17-06.20.57:669][744]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.17-06.20.59:319][744]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.17-06.21.31:290][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/ButtonActor" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/ButtonActor.uasset" SILENT=true
+[2022.03.17-06.21.31:321][167]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/ButtonActor63C1DAF0423992158F8ADCB23A9846DE.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/ButtonActor.uasset'
+[2022.03.17-06.21.31:346][167]AssetCheck: New page: Asset Save: ButtonActor
+[2022.03.17-06.21.31:346][167]LogContentValidation: Display: Validating Blueprint /Game/Interactables/ButtonActor.ButtonActor
+[2022.03.17-06.21.41:523][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.21.42:274][783]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.17-06.21.42:274][783]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.17-06.23.21:677][670]LogMaterial: Display: Missing cached shadermap for Datasmith_Color in PCD3D_SM5, Default, SM5 (DDC key hash: 23719F8A92B46985C6C42D692643601354460DEF), compiling. 
+[2022.03.17-06.23.21:758][670]LogShaderCompilers: Display: Submitted 50 shader compile jobs with 'Low' priority
+[2022.03.17-06.23.21:799][671]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.03.17-06.23.21:799][671]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.03.17-06.23.21:799][671]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2022.03.17-06.23.21:799][671]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2022.03.17-06.23.21:799][671]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 34
+[2022.03.17-06.23.21:799][671]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2022.03.17-06.23.21:799][671]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.03.17-06.23.21:799][671]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2022.03.17-06.23.21:799][671]LogShaderCompilers: Display: Started 42 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-06.23.21:800][671]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.17-06.23.25:804][736]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.03.17-06.23.25:804][736]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-06.23.25:806][736]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.17-06.23.25:806][736]LogShaderCompilers: Display: Total job queries 117, among them cache hits 0 (0.00%)
+[2022.03.17-06.23.25:806][736]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 48 distinct outputs (75.00%)
+[2022.03.17-06.23.25:806][736]LogShaderCompilers: Display: RAM used: 0.35 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.03.17-06.23.25:807][736]LogShaderCompilers: Display: ================================================
+[2022.03.17-06.23.29:515][797]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.03.17-06.23.29:515][797]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-06.23.38:355][952]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.23.39:850][952]LogUObjectHash: Compacting FUObjectHashTables data took  17.19ms
+[2022.03.17-06.23.42:342][993]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.03.17-06.23.42:342][993]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-06.23.47:968][ 86]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.03.17-06.23.47:968][ 86]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-06.24.01:041][304]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.03.17-06.24.01:042][304]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-06.24.01:686][310]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.03.17-06.24.01:686][310]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.17-06.24.18:618][622]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.24.18:941][622]LogUObjectHash: Compacting FUObjectHashTables data took  11.01ms
+[2022.03.17-06.24.20:239][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.24.20:540][644]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawnE3216E884800C588BB0CE4B471D5EDD4.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.24.20:602][644]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.24.20:602][644]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.24.27:424][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.24.27:424][794]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.24.27:705][794]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.24.27:707][794]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:24:27 PM)
+[2022.03.17-06.24.27:707][794]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.24.27:732][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024791s)
+[2022.03.17-06.24.27:735][794]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.24.27:748][794]LogPlayLevel: PIE: World Init took: (0.015451s)
+[2022.03.17-06.24.27:748][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.040772s)
+[2022.03.17-06.24.27:833][794]LogUObjectHash: Compacting FUObjectHashTables data took   9.34ms
+[2022.03.17-06.24.27:837][794]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.03.17-06.24.27:837][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.24.27:837][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.24.27:837][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.24.27:837][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.24.27:837][794]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.24.27:837][794]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.24.27:837][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.24.27:837][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.24.27:838][794]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.24.27:838][794]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.24.27:838][794]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.24.27:838][794]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.24.27:867][794]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.24.27:867][794]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.24.27:883][794]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.24.27:883][794]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.24.27:942][794]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.24.27:942][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.24.27:942][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.24.27:943][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.24.27:943][794]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.24.27:943][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.24.27:943][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.24.27:945][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.24.27:945][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.24.27:945][794]LogInit: FAudioDevice initialized.
+[2022.03.17-06.24.27:945][794]LogAudio: Display: Audio Device (ID: 12) registered with world 'EngineRoom'.
+[2022.03.17-06.24.27:973][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.24.27:990][794]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.24.28:043][794]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.24.28:055][794]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.24.28
+[2022.03.17-06.24.28:056][794]LogWorld: Bringing up level for play took: 0.010458
+[2022.03.17-06.24.28:057][794]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.03.17-06.24.28:062][794]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.24.28:066][794]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.237 Y=172.429 Z=95.095] for [VRPawn_C]
+[2022.03.17-06.24.28:067][794]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VRPawn_C at Rotation: Pitch 0.000000 Yaw 179.999786 Roll 0.000000
+Translation: -147.237152 172.428513 95.094849
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.03.17-06.24.28:083][794]PIE: Server logged in
+[2022.03.17-06.24.28:093][794]PIE: Play in editor total start time 1.139 seconds.
+[2022.03.17-06.24.28:094][794]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.24.28:116][794]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.24.28:127][794]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.24.28:200][796]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.24.47:080][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.24.47:080][556]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.24.47:190][556]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.24.47:255][556]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.24.47:262][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.24.47:344][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.24.47:387][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.24.47:437][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.24.47:438][556]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.24.47:438][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.24.47:441][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.24.47:457][556]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2022.03.17-06.24.47:508][557]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.17-06.24.47:524][557]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.25.01:570][  8]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.25.01:684][  8]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2022.03.17-06.25.21:565][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.25.21:565][827]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.25.21:769][827]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.25.21:769][827]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:25:21 PM)
+[2022.03.17-06.25.21:770][827]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.25.21:779][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009398s)
+[2022.03.17-06.25.21:781][827]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.25.21:782][827]LogPlayLevel: PIE: World Init took: (0.001874s)
+[2022.03.17-06.25.21:782][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.011591s)
+[2022.03.17-06.25.21:826][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.03.17-06.25.21:831][827]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.03.17-06.25.21:831][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.25.21:831][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.25.21:831][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.25.21:831][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.25.21:832][827]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.25.21:832][827]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.25.21:832][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.25.21:832][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.25.21:832][827]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.25.21:832][827]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.25.21:832][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.25.21:832][827]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.25.21:844][827]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.25.21:844][827]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.25.21:855][827]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.25.21:855][827]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.25.21:862][827]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.25.21:863][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.25.21:863][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.25.21:863][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.25.21:864][827]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.25.21:864][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.25.21:864][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.25.21:865][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.25.21:865][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.25.21:865][827]LogInit: FAudioDevice initialized.
+[2022.03.17-06.25.21:866][827]LogAudio: Display: Audio Device (ID: 13) registered with world 'EngineRoom'.
+[2022.03.17-06.25.21:889][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.25.21:913][827]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.25.21:983][827]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.25.21:997][827]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.25.21
+[2022.03.17-06.25.21:997][827]LogWorld: Bringing up level for play took: 0.013746
+[2022.03.17-06.25.21:998][827]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.17-06.25.22:007][827]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.25.22:010][827]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.237 Y=172.429 Z=95.095] for [VRPawn_C]
+[2022.03.17-06.25.22:011][827]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VRPawn_C at Rotation: Pitch 0.000000 Yaw 179.999786 Roll 0.000000
+Translation: -147.237152 172.428513 95.094849
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.03.17-06.25.22:039][827]PIE: Server logged in
+[2022.03.17-06.25.22:056][827]PIE: Play in editor total start time 0.493 seconds.
+[2022.03.17-06.25.22:056][827]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.25.22:077][827]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.25.22:078][827]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.25.22:182][829]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.25.34:576][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.25.34:576][582]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.25.34:643][582]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.25.34:694][582]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.25.34:694][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.25.34:739][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.25.34:782][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.25.34:842][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.25.34:842][582]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.25.34:842][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.25.34:843][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.25.34:854][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.03.17-06.25.34:890][583]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.17-06.25.34:902][583]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.25.57:947][395]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.25.58:052][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.03.17-06.25.58:606][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.25.58:743][416]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawn7FB5F1D24930BA0B84A64FB03C878CB3.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.25.58:763][416]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.25.58:763][416]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.26.03:354][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.26.03:354][644]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.26.03:534][644]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.26.03:534][644]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:26:03 PM)
+[2022.03.17-06.26.03:534][644]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.26.03:540][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006415s)
+[2022.03.17-06.26.03:541][644]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.26.03:542][644]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2022.03.17-06.26.03:542][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.007693s)
+[2022.03.17-06.26.03:579][644]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.03.17-06.26.03:580][644]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.03.17-06.26.03:580][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.26.03:580][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.26.03:581][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.26.03:581][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.26.03:581][644]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.26.03:581][644]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.26.03:581][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.26.03:581][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.26.03:581][644]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.26.03:581][644]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.26.03:581][644]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.26.03:581][644]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.26.03:592][644]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.26.03:592][644]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.26.03:602][644]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.26.03:602][644]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.26.03:610][644]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.26.03:611][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.26.03:611][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.26.03:611][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.26.03:611][644]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.26.03:611][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.26.03:611][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.26.03:613][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.26.03:613][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.26.03:613][644]LogInit: FAudioDevice initialized.
+[2022.03.17-06.26.03:613][644]LogAudio: Display: Audio Device (ID: 14) registered with world 'EngineRoom'.
+[2022.03.17-06.26.03:637][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.26.03:650][644]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.26.03:730][644]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.26.03:740][644]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.26.03
+[2022.03.17-06.26.03:740][644]LogWorld: Bringing up level for play took: 0.006287
+[2022.03.17-06.26.03:740][644]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.03.17-06.26.03:752][644]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.26.03:779][644]PIE: Server logged in
+[2022.03.17-06.26.03:791][644]PIE: Play in editor total start time 0.438 seconds.
+[2022.03.17-06.26.03:792][644]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.26.03:819][644]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.26.03:819][644]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.26.03:930][646]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.26.12:760][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.26.12:760][ 94]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.26.12:847][ 94]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.26.12:894][ 94]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.26.12:897][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.26.12:951][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.26.12:984][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.26.13:034][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.26.13:035][ 94]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.26.13:035][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.26.13:036][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.26.13:082][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.03.17-06.26.13:116][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.17-06.26.13:128][ 95]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.28.03:424][477]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.28.03:599][477]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2022.03.17-06.28.04:108][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.28.04:252][492]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawnD18F819B486DF64DDD5F87A60384343E.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.28.04:320][492]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.28.04:320][492]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.28.07:473][671]LogTemp: Repeating last play command: VR Preview
+[2022.03.17-06.28.07:482][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.28.07:482][671]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.28.07:673][671]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.28.07:673][671]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:28:07 PM)
+[2022.03.17-06.28.07:711][671]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.28.07:719][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008322s)
+[2022.03.17-06.28.07:721][671]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.28.07:721][671]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2022.03.17-06.28.07:721][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.010243s)
+[2022.03.17-06.28.07:760][671]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.03.17-06.28.07:762][671]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.03.17-06.28.07:762][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.28.07:762][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.28.07:762][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.28.07:762][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.28.07:762][671]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.28.07:762][671]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.28.07:762][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.28.07:762][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.28.07:762][671]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.28.07:762][671]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.28.07:762][671]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.28.07:762][671]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.28.07:774][671]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.28.07:775][671]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.28.07:785][671]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.28.07:785][671]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.28.07:793][671]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.28.07:793][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.28.07:794][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.28.07:794][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.28.07:794][671]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.28.07:794][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.28.07:794][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.28.07:796][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.28.07:796][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.28.07:796][671]LogInit: FAudioDevice initialized.
+[2022.03.17-06.28.07:796][671]LogAudio: Display: Audio Device (ID: 15) registered with world 'EngineRoom'.
+[2022.03.17-06.28.07:819][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.28.07:848][671]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.28.07:921][671]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.28.07:927][671]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.28.07
+[2022.03.17-06.28.07:927][671]LogWorld: Bringing up level for play took: 0.003952
+[2022.03.17-06.28.07:927][671]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.03.17-06.28.07:935][671]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.28.07:955][671]PIE: Server logged in
+[2022.03.17-06.28.07:964][671]PIE: Play in editor total start time 0.485 seconds.
+[2022.03.17-06.28.07:968][671]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.28.07:988][671]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.28.07:989][671]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.28.08:117][673]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.28.18:933][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.28.18:933][289]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.28.19:030][289]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.28.19:074][289]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.28.19:075][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.28.19:126][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.28.19:174][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.28.19:228][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.28.19:229][289]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.28.19:229][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.28.19:230][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.28.19:243][289]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2022.03.17-06.28.19:284][290]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.03.17-06.28.19:297][290]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.28.19:847][293]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.17-06.28.20:355][293]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.17-06.28.56:875][716]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.28.56:996][716]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2022.03.17-06.28.58:088][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.28.58:231][756]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawnE03570034949B660B0D216A9EF9C510C.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.28.58:350][756]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.28.58:350][756]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.29.04:047][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.29.04:047][ 59]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.29.04:234][ 59]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.29.04:235][ 59]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:29:04 PM)
+[2022.03.17-06.29.04:235][ 59]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.29.04:241][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006955s)
+[2022.03.17-06.29.04:242][ 59]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.29.04:243][ 59]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2022.03.17-06.29.04:243][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.008845s)
+[2022.03.17-06.29.04:285][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.03.17-06.29.04:290][ 59]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.03.17-06.29.04:290][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.29.04:290][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.29.04:290][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.29.04:290][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.29.04:290][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.29.04:290][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.29.04:290][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.29.04:290][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.29.04:290][ 59]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.29.04:290][ 59]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.29.04:290][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.29.04:290][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.29.04:302][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.29.04:302][ 59]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.29.04:312][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.29.04:312][ 59]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.29.04:320][ 59]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.29.04:321][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.29.04:321][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.29.04:321][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.29.04:321][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.29.04:321][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.29.04:321][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.29.04:323][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.29.04:323][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.29.04:323][ 59]LogInit: FAudioDevice initialized.
+[2022.03.17-06.29.04:323][ 59]LogAudio: Display: Audio Device (ID: 16) registered with world 'EngineRoom'.
+[2022.03.17-06.29.04:351][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.29.04:375][ 59]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.29.04:453][ 59]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.29.04:466][ 59]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.29.04
+[2022.03.17-06.29.04:468][ 59]LogWorld: Bringing up level for play took: 0.012213
+[2022.03.17-06.29.04:469][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.03.17-06.29.04:473][ 59]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.29.04:506][ 59]PIE: Server logged in
+[2022.03.17-06.29.04:519][ 59]PIE: Play in editor total start time 0.473 seconds.
+[2022.03.17-06.29.04:525][ 59]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.29.04:545][ 59]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.29.04:546][ 59]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.29.04:665][ 61]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.29.20:969][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.29.20:969][912]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.29.21:056][912]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.29.21:115][912]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.29.21:120][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.29.21:155][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.29.21:200][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.29.21:261][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.29.21:261][912]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.29.21:261][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.29.21:263][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.29.21:273][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.03.17-06.29.21:316][913]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.03.17-06.29.21:328][913]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.30.35:647][817]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.30.35:767][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.03.17-06.30.36:701][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.30.36:858][850]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawn32F3419A4956FF4F597EEC9EB551AF2E.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.30.36:882][850]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.30.36:882][850]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.30.40:863][ 75]LogTemp: Repeating last play command: VR Preview
+[2022.03.17-06.30.40:876][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.30.40:876][ 75]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.30.41:057][ 75]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.30.41:058][ 75]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:30:41 PM)
+[2022.03.17-06.30.41:058][ 75]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.30.41:071][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012500s)
+[2022.03.17-06.30.41:072][ 75]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.30.41:073][ 75]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2022.03.17-06.30.41:073][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.014221s)
+[2022.03.17-06.30.41:118][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2022.03.17-06.30.41:124][ 75]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.03.17-06.30.41:124][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.30.41:125][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.30.41:125][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.30.41:125][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.30.41:125][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.30.41:125][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.30.41:125][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.30.41:125][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.30.41:126][ 75]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.30.41:126][ 75]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.30.41:126][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.30.41:126][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.30.41:140][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.30.41:140][ 75]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.30.41:153][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.30.41:153][ 75]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.30.41:165][ 75]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.30.41:165][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.30.41:165][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.30.41:165][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.30.41:166][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.30.41:166][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.30.41:166][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.30.41:167][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.30.41:167][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.30.41:167][ 75]LogInit: FAudioDevice initialized.
+[2022.03.17-06.30.41:167][ 75]LogAudio: Display: Audio Device (ID: 17) registered with world 'EngineRoom'.
+[2022.03.17-06.30.41:189][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.30.41:211][ 75]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.30.41:281][ 75]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.30.41:296][ 75]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.30.41
+[2022.03.17-06.30.41:296][ 75]LogWorld: Bringing up level for play took: 0.014127
+[2022.03.17-06.30.41:296][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.17-06.30.41:304][ 75]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.30.41:311][ 75]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.237 Y=172.429 Z=95.095] for [VRPawn_C]
+[2022.03.17-06.30.41:312][ 75]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VRPawn_C at Rotation: Pitch 0.000000 Yaw 179.999786 Roll 0.000000
+Translation: -147.237152 172.428513 95.094849
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.03.17-06.30.41:339][ 75]PIE: Server logged in
+[2022.03.17-06.30.41:353][ 75]PIE: Play in editor total start time 0.479 seconds.
+[2022.03.17-06.30.41:359][ 75]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.30.41:384][ 75]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.30.41:384][ 75]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.30.41:487][ 77]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.30.58:629][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.30.58:629][944]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.30.58:703][944]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.30.58:742][944]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.30.58:751][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.30.58:815][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.30.58:856][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.30.58:906][944]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.30.58:907][944]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.30.58:907][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.30.58:908][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.30.58:919][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.03.17-06.30.58:956][945]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.17-06.30.58:968][945]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.31.09:219][321]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.31.09:343][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.03.17-06.31.10:089][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.31.10:246][349]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawn3F76359A4BBBD53DC862719A2CED58BC.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.31.10:270][349]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.31.10:271][349]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.31.13:625][492]Cmd: TRANSACTION UNDO
+[2022.03.17-06.31.13:625][492]LogEditorTransaction: Undo Remove Components
+[2022.03.17-06.31.24:829][889]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.31.24:942][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.03.17-06.31.25:763][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.31.25:899][913]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawnF6DE2B7641563C78756CF88F1DF90A0F.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.31.25:929][913]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.31.25:929][913]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.31.31:488][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.31.31:488][196]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.31.31:677][196]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.31.31:677][196]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:31:31 PM)
+[2022.03.17-06.31.31:677][196]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.31.31:685][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007628s)
+[2022.03.17-06.31.31:686][196]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.31.31:687][196]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2022.03.17-06.31.31:687][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.008948s)
+[2022.03.17-06.31.31:725][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.03.17-06.31.31:730][196]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.03.17-06.31.31:730][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.31.31:730][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.31.31:730][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.31.31:730][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.31.31:730][196]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.31.31:730][196]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.31.31:730][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.31.31:730][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.31.31:731][196]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.31.31:731][196]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.31.31:731][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.31.31:731][196]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.31.31:740][196]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.31.31:740][196]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.31.31:753][196]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.31.31:753][196]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.31.31:762][196]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.31.31:762][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.31.31:762][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.31.31:763][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.31.31:764][196]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.31.31:764][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.31.31:764][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.31.31:766][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.31.31:766][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.31.31:766][196]LogInit: FAudioDevice initialized.
+[2022.03.17-06.31.31:766][196]LogAudio: Display: Audio Device (ID: 18) registered with world 'EngineRoom'.
+[2022.03.17-06.31.31:785][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.31.31:806][196]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.31.31:875][196]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.31.31:883][196]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.31.31
+[2022.03.17-06.31.31:887][196]LogWorld: Bringing up level for play took: 0.009572
+[2022.03.17-06.31.31:889][196]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.03.17-06.31.31:893][196]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.31.31:902][196]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.237 Y=172.429 Z=95.095] for [VRPawn_C]
+[2022.03.17-06.31.31:904][196]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VRPawn_C at Rotation: Pitch 0.000000 Yaw 179.999786 Roll 0.000000
+Translation: -147.237152 172.428513 95.094849
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.03.17-06.31.31:925][196]PIE: Server logged in
+[2022.03.17-06.31.31:932][196]PIE: Play in editor total start time 0.445 seconds.
+[2022.03.17-06.31.31:933][196]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.31.31:959][196]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.31.31:959][196]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.31.32:053][197]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.31.49:628][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.31.49:628][146]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.31.49:709][146]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.31.49:775][146]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.31.49:779][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.31.49:825][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.31.49:872][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.31.49:921][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.31.49:921][146]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.31.49:921][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.31.49:923][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.31.49:934][146]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.03.17-06.31.49:975][147]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.03.17-06.31.49:988][147]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.31.54:384][250]LogEditorTransaction: Undo Change Collision Profile
+[2022.03.17-06.31.55:189][269]LogEditorTransaction: Undo Set Location
+[2022.03.17-06.31.55:903][295]LogEditorTransaction: Undo Set Location
+[2022.03.17-06.31.56:314][311]LogEditorTransaction: Undo Set Location
+[2022.03.17-06.31.56:702][327]LogEditorTransaction: Undo Set Scale
+[2022.03.17-06.31.57:058][340]LogEditorTransaction: Undo Set Scale
+[2022.03.17-06.31.57:578][362]LogEditorTransaction: Undo Set Scale
+[2022.03.17-06.31.57:987][379]LogEditorTransaction: Undo Edit Static Mesh
+[2022.03.17-06.31.58:221][387]LogEditorTransaction: Undo Rename Component Variable
+[2022.03.17-06.31.58:430][392]LogEditorTransaction: Undo Add Component
+[2022.03.17-06.32.00:747][488]LogEditorTransaction: Redo Add Component
+[2022.03.17-06.32.03:132][591]LogEditorTransaction: Undo Add Component
+[2022.03.17-06.32.04:939][669]LogEditorTransaction: Undo Change Collision Profile
+[2022.03.17-06.32.05:695][701]LogEditorTransaction: Undo Rename Component Variable
+[2022.03.17-06.32.06:223][721]LogEditorTransaction: Undo Modify Component(s)
+[2022.03.17-06.32.06:942][752]LogEditorTransaction: Undo Set Location
+[2022.03.17-06.32.07:792][789]LogEditorTransaction: Redo Set Location
+[2022.03.17-06.32.08:015][797]LogEditorTransaction: Redo Modify Component(s)
+[2022.03.17-06.32.08:276][807]LogEditorTransaction: Redo Rename Component Variable
+[2022.03.17-06.32.08:582][818]LogEditorTransaction: Redo Change Collision Profile
+[2022.03.17-06.32.09:147][841]LogEditorTransaction: Redo Add Component
+[2022.03.17-06.32.10:228][888]LogEditorTransaction: Undo Add Component
+[2022.03.17-06.32.11:606][938]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.32.11:723][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.03.17-06.32.12:700][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.32.12:838][973]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawn7851C052420740656717BE86E018E4D5.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.32.12:869][973]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.32.12:869][973]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.32.17:364][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.32.17:364][208]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.32.17:550][208]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.32.17:551][208]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:32:17 PM)
+[2022.03.17-06.32.17:551][208]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.32.17:558][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007409s)
+[2022.03.17-06.32.17:559][208]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.32.17:560][208]LogPlayLevel: PIE: World Init took: (0.001442s)
+[2022.03.17-06.32.17:560][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.009051s)
+[2022.03.17-06.32.17:599][208]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.03.17-06.32.17:601][208]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.03.17-06.32.17:601][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.32.17:601][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.32.17:601][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.32.17:601][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.32.17:601][208]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.32.17:601][208]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.32.17:601][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.32.17:601][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.32.17:602][208]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.32.17:602][208]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.32.17:602][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.32.17:602][208]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.32.17:612][208]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.32.17:612][208]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.32.17:621][208]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.32.17:621][208]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.32.18:178][208]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.32.18:178][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.32.18:178][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.32.18:178][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.32.18:178][208]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.32.18:179][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.32.18:179][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.32.18:180][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.32.18:180][208]LogInit: FAudioDevice initialized.
+[2022.03.17-06.32.18:180][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.32.18:180][208]LogAudio: Display: Audio Device (ID: 19) registered with world 'EngineRoom'.
+[2022.03.17-06.32.18:199][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.32.18:220][208]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.32.18:283][208]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.32.18:295][208]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.32.18
+[2022.03.17-06.32.18:296][208]LogWorld: Bringing up level for play took: 0.012027
+[2022.03.17-06.32.18:297][208]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.17-06.32.18:304][208]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.32.18:331][208]PIE: Server logged in
+[2022.03.17-06.32.18:343][208]PIE: Play in editor total start time 0.981 seconds.
+[2022.03.17-06.32.18:344][208]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.32.18:367][208]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.32.18:367][208]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.32.18:461][210]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.32.31:608][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.32.31:608][814]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.32.31:683][814]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.32.31:743][814]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.32.31:748][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.32.31:788][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.32.31:822][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.32.31:879][814]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.32.31:880][814]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.32.31:880][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.32.31:881][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.32.31:893][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.03.17-06.32.31:930][815]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.17-06.32.31:941][815]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.32.32:476][818]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.17-06.32.51:459][514]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.32.51:572][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.03.17-06.32.52:248][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.32.52:395][535]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawnE894DB324BD9FBB8EFFE8994BB25A32B.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.32.52:419][535]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.32.52:419][535]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.32.56:695][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.32.56:695][767]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.32.57:554][767]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.32.57:554][767]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:32:57 PM)
+[2022.03.17-06.32.57:554][767]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.32.57:561][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006738s)
+[2022.03.17-06.32.57:562][767]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.32.57:563][767]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2022.03.17-06.32.57:563][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.008791s)
+[2022.03.17-06.32.57:599][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.03.17-06.32.57:601][767]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.03.17-06.32.57:601][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.32.57:602][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.32.57:602][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.32.57:602][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.32.57:602][767]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.32.57:602][767]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.32.57:602][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.32.57:602][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.32.57:602][767]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.32.57:602][767]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.32.57:602][767]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.32.57:602][767]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.32.57:612][767]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.32.57:612][767]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.32.57:621][767]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.32.57:621][767]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.32.57:627][767]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.32.57:628][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.32.57:628][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.32.57:628][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.32.57:628][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.32.57:629][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.32.57:629][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.32.57:630][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.32.57:630][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.32.57:630][767]LogInit: FAudioDevice initialized.
+[2022.03.17-06.32.57:630][767]LogAudio: Display: Audio Device (ID: 20) registered with world 'EngineRoom'.
+[2022.03.17-06.32.57:648][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.32.57:671][767]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.32.57:725][767]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.32.57:731][767]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.32.57
+[2022.03.17-06.32.57:731][767]LogWorld: Bringing up level for play took: 0.004640
+[2022.03.17-06.32.57:732][767]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.03.17-06.32.57:742][767]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.32.57:761][767]PIE: Server logged in
+[2022.03.17-06.32.57:767][767]PIE: Play in editor total start time 1.073 seconds.
+[2022.03.17-06.32.57:772][767]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.32.57:793][767]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.32.57:793][767]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.32.57:879][769]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.33.10:270][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.33.10:270][379]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.33.10:365][379]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.33.10:471][379]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.33.10:472][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.33.10:483][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.33.10:495][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.33.10:533][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.33.10:533][379]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.33.10:533][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.33.10:535][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.33.10:545][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.03.17-06.33.11:171][380]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.03.17-06.33.11:387][380]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.33.31:670][173]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.33.31:775][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.03.17-06.33.32:653][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.33.32:801][203]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawn97D70847431C627DD6B291927BE8C3A4.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.33.32:827][203]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.33.32:827][203]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.33.36:594][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.33.36:594][409]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.33.36:787][409]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.33.36:787][409]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:33:36 PM)
+[2022.03.17-06.33.36:787][409]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.33.36:794][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006585s)
+[2022.03.17-06.33.36:795][409]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.33.36:795][409]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2022.03.17-06.33.36:795][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.007908s)
+[2022.03.17-06.33.36:838][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.03.17-06.33.36:841][409]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.03.17-06.33.36:841][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.33.36:841][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.33.36:841][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.33.36:841][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.33.36:841][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.33.36:841][409]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.33.36:841][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.33.36:841][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.33.36:842][409]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.33.36:842][409]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.33.36:842][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.33.36:842][409]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.33.36:853][409]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.33.36:853][409]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.33.36:862][409]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.33.36:862][409]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.33.36:870][409]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.33.36:870][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.33.36:870][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.33.36:871][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.33.36:871][409]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.33.36:871][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.33.36:871][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.33.36:873][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.33.36:873][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.33.36:873][409]LogInit: FAudioDevice initialized.
+[2022.03.17-06.33.36:873][409]LogAudio: Display: Audio Device (ID: 21) registered with world 'EngineRoom'.
+[2022.03.17-06.33.36:895][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.33.36:914][409]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.33.36:975][409]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.33.36:991][409]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.33.36
+[2022.03.17-06.33.36:991][409]LogWorld: Bringing up level for play took: 0.013672
+[2022.03.17-06.33.36:991][409]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.03.17-06.33.37:002][409]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.33.37:008][409]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.237 Y=172.429 Z=95.095] for [VRPawn_C]
+[2022.03.17-06.33.37:009][409]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VRPawn_C at Rotation: Pitch 0.000000 Yaw 179.999786 Roll 0.000000
+Translation: -147.237152 172.428513 95.094849
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.03.17-06.33.37:040][409]PIE: Server logged in
+[2022.03.17-06.33.37:054][409]PIE: Play in editor total start time 0.461 seconds.
+[2022.03.17-06.33.37:057][409]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.33.37:082][409]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.33.37:082][409]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.33.37:170][411]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.33.46:706][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.33.46:706][966]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.33.46:771][966]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.33.46:842][966]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.33.46:843][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.33.46:895][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.33.46:942][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.33.46:996][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.33.46:996][966]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.33.46:996][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.33.46:997][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.33.47:007][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.03.17-06.33.47:050][967]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.03.17-06.33.47:061][967]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.33.47:603][970]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.17-06.33.48:108][970]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.17-06.33.50:540][ 38]Cmd: TRANSACTION UNDO
+[2022.03.17-06.33.50:540][ 38]LogEditorTransaction: Undo Set Location
+[2022.03.17-06.33.57:738][318]Cmd: TRANSACTION UNDO
+[2022.03.17-06.33.57:738][318]LogEditorTransaction: Undo Rename Component Variable
+[2022.03.17-06.34.01:056][441]Cmd: TRANSACTION REDO
+[2022.03.17-06.34.01:056][441]LogEditorTransaction: Redo Rename Component Variable
+[2022.03.17-06.34.02:716][498]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.34.02:827][498]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.03.17-06.34.03:813][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.34.03:958][533]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawn39C2157645954114E9FE90B4B118F27E.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.34.03:985][533]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.34.03:985][533]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.34.09:191][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.34.09:191][810]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.34.09:391][810]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.34.09:391][810]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:34:09 PM)
+[2022.03.17-06.34.09:391][810]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.34.09:400][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009036s)
+[2022.03.17-06.34.09:401][810]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.34.09:402][810]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2022.03.17-06.34.09:402][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.010776s)
+[2022.03.17-06.34.09:447][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.03.17-06.34.09:450][810]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.03.17-06.34.09:450][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.34.09:450][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.34.09:450][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.34.09:450][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.34.09:450][810]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.34.09:450][810]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.34.09:450][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.34.09:450][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.34.09:451][810]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.34.09:451][810]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.34.09:451][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.34.09:451][810]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.34.09:462][810]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.34.09:462][810]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.34.09:471][810]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.34.09:471][810]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.34.09:514][810]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.34.09:514][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.34.09:514][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.34.09:514][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.34.09:515][810]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.34.09:515][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.34.09:515][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.34.09:517][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.34.09:517][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.34.09:517][810]LogInit: FAudioDevice initialized.
+[2022.03.17-06.34.09:517][810]LogAudio: Display: Audio Device (ID: 22) registered with world 'EngineRoom'.
+[2022.03.17-06.34.09:533][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.34.09:555][810]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.34.09:615][810]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.34.09:628][810]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.34.09
+[2022.03.17-06.34.09:630][810]LogWorld: Bringing up level for play took: 0.012211
+[2022.03.17-06.34.09:630][810]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.03.17-06.34.09:635][810]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.34.09:666][810]PIE: Server logged in
+[2022.03.17-06.34.09:678][810]PIE: Play in editor total start time 0.488 seconds.
+[2022.03.17-06.34.09:679][810]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.34.09:706][810]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.34.09:706][810]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.34.09:820][812]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.34.19:899][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.34.19:899][421]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.34.19:965][421]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.34.20:015][421]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.34.20:016][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.34.20:063][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.34.20:098][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.34.20:156][421]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.34.20:157][421]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.34.20:157][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.34.20:158][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.34.20:173][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.03.17-06.34.20:214][422]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.03.17-06.34.20:225][422]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.34.20:769][425]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.17-06.34.35:437][782]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.34.35:568][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.03.17-06.34.36:717][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.34.36:873][821]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawnA71920364DEB306086102FB26EC6A369.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.34.36:902][821]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.34.36:902][821]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.34.42:857][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.34.42:857][149]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.34.43:049][149]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.34.43:049][149]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:34:43 PM)
+[2022.03.17-06.34.43:049][149]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.34.43:058][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008821s)
+[2022.03.17-06.34.43:059][149]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.34.43:060][149]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2022.03.17-06.34.43:060][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.010385s)
+[2022.03.17-06.34.43:102][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.03.17-06.34.43:105][149]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.03.17-06.34.43:105][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.34.43:105][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.34.43:105][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.34.43:105][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.34.43:105][149]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.34.43:105][149]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.34.43:105][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.34.43:105][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.34.43:106][149]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.34.43:106][149]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.34.43:106][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.34.43:106][149]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.34.43:117][149]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.34.43:117][149]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.34.43:129][149]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.34.43:129][149]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.34.43:138][149]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.34.43:139][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.34.43:139][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.34.43:139][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.34.43:140][149]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.34.43:140][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.34.43:140][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.34.43:142][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.34.43:142][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.34.43:142][149]LogInit: FAudioDevice initialized.
+[2022.03.17-06.34.43:142][149]LogAudio: Display: Audio Device (ID: 23) registered with world 'EngineRoom'.
+[2022.03.17-06.34.43:165][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.34.43:186][149]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.34.43:248][149]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.34.43:263][149]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.34.43
+[2022.03.17-06.34.43:263][149]LogWorld: Bringing up level for play took: 0.012150
+[2022.03.17-06.34.43:263][149]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.03.17-06.34.43:275][149]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.34.43:278][149]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.237 Y=172.429 Z=95.095] for [VRPawn_C]
+[2022.03.17-06.34.43:278][149]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VRPawn_C at Rotation: Pitch 0.000000 Yaw 179.999786 Roll 0.000000
+Translation: -147.237152 172.428513 95.094849
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.03.17-06.34.43:303][149]PIE: Server logged in
+[2022.03.17-06.34.43:318][149]PIE: Play in editor total start time 0.462 seconds.
+[2022.03.17-06.34.43:319][149]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.34.43:345][149]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.34.43:346][149]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.34.43:454][151]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.34.55:114][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.34.55:114][765]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.34.55:214][765]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.34.55:272][765]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.34.55:280][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.34.55:339][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.34.55:374][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.34.55:429][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.34.55:429][765]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.34.55:429][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.34.55:431][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.34.55:444][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.03.17-06.34.55:484][766]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.03.17-06.34.55:496][766]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.35.02:070][986]Cmd: TRANSACTION UNDO
+[2022.03.17-06.35.02:070][986]LogEditorTransaction: Undo Modify Component(s)
+[2022.03.17-06.35.05:041][ 95]Cmd: TRANSACTION UNDO
+[2022.03.17-06.35.05:041][ 95]LogEditorTransaction: Undo Rename Component Variable
+[2022.03.17-06.35.07:964][213]Cmd: TRANSACTION REDO
+[2022.03.17-06.35.07:965][213]LogEditorTransaction: Redo Rename Component Variable
+[2022.03.17-06.35.17:150][597]LogEditorTransaction: Undo Modify Component(s)
+[2022.03.17-06.35.18:512][644]LogEditorTransaction: Undo Rename Component Variable
+[2022.03.17-06.35.20:821][745]LogEditorTransaction: Redo Rename Component Variable
+[2022.03.17-06.35.37:099][396]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.35.37:242][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.03.17-06.35.37:917][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.35.38:050][417]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawn2B7CE6DB49EA0EBBCC5E0F984B424FF5.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.35.38:083][417]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.35.38:083][417]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.35.43:696][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.35.43:696][718]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.35.43:887][718]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.35.43:888][718]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:35:43 PM)
+[2022.03.17-06.35.43:888][718]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.35.43:896][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007955s)
+[2022.03.17-06.35.43:898][718]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.35.43:898][718]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2022.03.17-06.35.43:898][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.009666s)
+[2022.03.17-06.35.43:940][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.03.17-06.35.43:942][718]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.03.17-06.35.43:943][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.35.43:943][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.35.43:943][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.35.43:943][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.35.43:943][718]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.35.43:943][718]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.35.43:943][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.35.43:943][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.35.43:944][718]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.35.43:944][718]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.35.43:944][718]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.35.43:944][718]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.35.43:956][718]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.35.43:956][718]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.35.43:967][718]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.35.43:967][718]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.35.43:975][718]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.35.43:975][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.35.43:975][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.35.43:975][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.35.43:976][718]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.35.43:976][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.35.43:976][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.35.43:978][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.35.43:979][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.35.43:979][718]LogInit: FAudioDevice initialized.
+[2022.03.17-06.35.43:979][718]LogAudio: Display: Audio Device (ID: 24) registered with world 'EngineRoom'.
+[2022.03.17-06.35.43:999][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.35.44:019][718]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.35.44:085][718]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.35.44:093][718]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.35.44
+[2022.03.17-06.35.44:094][718]LogWorld: Bringing up level for play took: 0.007032
+[2022.03.17-06.35.44:096][718]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.03.17-06.35.44:107][718]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.35.44:148][718]PIE: Server logged in
+[2022.03.17-06.35.44:158][718]PIE: Play in editor total start time 0.463 seconds.
+[2022.03.17-06.35.44:160][718]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.35.44:194][718]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.35.44:195][718]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.35.44:304][720]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.35.54:322][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.35.54:322][257]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.35.54:423][257]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.35.54:493][257]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.35.54:494][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.35.54:539][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.35.54:578][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.35.54:632][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.35.54:633][257]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.35.54:633][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.35.54:634][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.35.54:646][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.03.17-06.35.54:684][258]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.03.17-06.35.54:697][258]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.36.19:213][109]BlueprintLog: New page: Compile VRPawn
+[2022.03.17-06.36.19:325][109]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.03.17-06.36.20:747][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.03.17-06.36.20:878][161]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/VRPawnBBBC285A40FF93095064ACBDFC4F1536.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.03.17-06.36.20:902][161]AssetCheck: New page: Asset Save: VRPawn
+[2022.03.17-06.36.20:902][161]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.03.17-06.36.24:838][369]LogTemp: Repeating last play command: VR Preview
+[2022.03.17-06.36.24:847][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.36.24:847][369]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.36.25:069][369]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.36.25:069][369]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:36:25 PM)
+[2022.03.17-06.36.25:070][369]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.36.25:078][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007899s)
+[2022.03.17-06.36.25:079][369]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.36.25:079][369]LogPlayLevel: PIE: World Init took: (0.001572s)
+[2022.03.17-06.36.25:079][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.009807s)
+[2022.03.17-06.36.25:126][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.03.17-06.36.25:129][369]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.03.17-06.36.25:129][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.36.25:129][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.36.25:129][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.36.25:129][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.36.25:129][369]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.36.25:129][369]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.36.25:129][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.36.25:129][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.36.25:130][369]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.36.25:130][369]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.36.25:130][369]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.36.25:130][369]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.36.25:141][369]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.36.25:141][369]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.36.25:151][369]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.36.25:151][369]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.36.25:166][369]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.36.25:166][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.36.25:166][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.36.25:166][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.36.25:167][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.36.25:167][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.36.25:167][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.36.25:168][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.36.25:168][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.36.25:168][369]LogInit: FAudioDevice initialized.
+[2022.03.17-06.36.25:168][369]LogAudio: Display: Audio Device (ID: 25) registered with world 'EngineRoom'.
+[2022.03.17-06.36.25:190][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.36.25:228][369]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.36.25:556][369]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.36.25:560][369]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.36.25
+[2022.03.17-06.36.25:560][369]LogWorld: Bringing up level for play took: 0.002859
+[2022.03.17-06.36.25:561][369]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.03.17-06.36.25:570][369]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.36.25:588][369]PIE: Server logged in
+[2022.03.17-06.36.25:601][369]PIE: Play in editor total start time 0.755 seconds.
+[2022.03.17-06.36.25:601][369]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.36.25:619][369]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.36.25:619][369]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.36.25:739][371]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.37.09:679][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.37.09:679][589]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.37.09:755][589]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.37.09:824][589]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.37.09:825][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.37.09:867][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.37.09:910][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.37.09:963][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.37.09:964][589]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.37.09:964][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.37.09:966][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.37.09:977][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.03.17-06.37.10:017][590]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.03.17-06.37.10:030][590]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.37.18:212][135]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2022.03.17-06.37.20:595][307]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.17-06.37.24:901][605]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.17-06.37.26:629][741]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.17-06.37.28:811][897]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.17-06.37.33:850][284]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.17-06.37.40:767][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EngineRoomFloor_Floor)
+[2022.03.17-06.37.41:748][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EngineRoomFloor_Floor)
+[2022.03.17-06.37.42:427][905]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2022.03.17-06.37.45:391][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.17-06.37.45:432][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.03.17-06.37.45:461][117]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom25C3C31E494E612C623D5EAEDDD2161B.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.17-06.37.45:503][117]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.17-06.37.45:504][117]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.17-06.37.49:279][371]LogTemp: Repeating last play command: VR Preview
+[2022.03.17-06.37.49:294][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.37.49:294][371]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.37.49:508][371]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.37.49:508][371]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:37:49 PM)
+[2022.03.17-06.37.49:508][371]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.37.49:517][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009174s)
+[2022.03.17-06.37.49:518][371]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.37.49:519][371]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2022.03.17-06.37.49:519][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.010959s)
+[2022.03.17-06.37.49:586][371]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2022.03.17-06.37.49:590][371]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.03.17-06.37.49:591][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.37.49:591][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.37.49:591][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.37.49:591][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.37.49:591][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.37.49:591][371]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.37.49:591][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.37.49:591][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.37.49:592][371]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.37.49:592][371]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.37.49:593][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.37.49:593][371]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.37.49:607][371]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.37.49:608][371]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.37.49:622][371]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.37.49:623][371]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.37.49:632][371]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.37.49:633][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.37.49:633][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.37.49:633][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.37.49:634][371]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.37.49:634][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.37.49:634][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.37.49:636][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.37.49:636][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.37.49:636][371]LogInit: FAudioDevice initialized.
+[2022.03.17-06.37.49:636][371]LogAudio: Display: Audio Device (ID: 26) registered with world 'EngineRoom'.
+[2022.03.17-06.37.49:662][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.37.49:693][371]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.37.49:762][371]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.37.49:776][371]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.37.49
+[2022.03.17-06.37.49:779][371]LogWorld: Bringing up level for play took: 0.013444
+[2022.03.17-06.37.49:780][371]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.03.17-06.37.49:783][371]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.37.49:809][371]PIE: Server logged in
+[2022.03.17-06.37.49:822][371]PIE: Play in editor total start time 0.532 seconds.
+[2022.03.17-06.37.49:822][371]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.37.49:854][371]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.37.49:855][371]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.37.49:968][373]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.38.11:385][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.38.11:385][434]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.38.11:474][434]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.38.11:543][434]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.38.11:547][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.38.11:597][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.38.11:646][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.38.11:694][434]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.38.11:694][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.38.11:695][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.38.11:707][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.03.17-06.38.11:743][435]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.03.17-06.38.11:756][435]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.38.19:095][931]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.17-06.38.22:033][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.17-06.38.22:077][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.03.17-06.38.22:105][108]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom9EF887534FA6F829F462CB916AB22347.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.17-06.38.22:144][108]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.17-06.38.22:144][108]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.17-06.38.27:030][413]LogTemp: Repeating last play command: VR Preview
+[2022.03.17-06.38.27:043][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.38.27:043][413]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.38.27:953][413]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.38.27:953][413]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:38:27 PM)
+[2022.03.17-06.38.27:953][413]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.38.27:959][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005536s)
+[2022.03.17-06.38.27:960][413]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.38.27:961][413]LogPlayLevel: PIE: World Init took: (0.001674s)
+[2022.03.17-06.38.27:961][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.007348s)
+[2022.03.17-06.38.27:990][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.03.17-06.38.27:991][413]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.03.17-06.38.27:991][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.38.27:991][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.38.27:991][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.38.27:991][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.38.27:991][413]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.38.27:991][413]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.38.27:991][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.38.27:991][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.38.27:992][413]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.38.27:992][413]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.38.27:992][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.38.27:992][413]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.38.28:001][413]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.38.28:001][413]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.38.28:010][413]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.38.28:010][413]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.38.28:016][413]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.38.28:017][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.38.28:017][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.38.28:017][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.38.28:017][413]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.38.28:017][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.38.28:017][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.38.28:019][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.38.28:019][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.38.28:019][413]LogInit: FAudioDevice initialized.
+[2022.03.17-06.38.28:019][413]LogAudio: Display: Audio Device (ID: 27) registered with world 'EngineRoom'.
+[2022.03.17-06.38.28:036][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.38.28:054][413]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.38.28:114][413]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.38.28:128][413]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.38.28
+[2022.03.17-06.38.28:130][413]LogWorld: Bringing up level for play took: 0.013609
+[2022.03.17-06.38.28:132][413]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.03.17-06.38.28:135][413]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.38.28:138][413]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=145.233 Y=29.046 Z=3.459] for [VRPawn_C]
+[2022.03.17-06.38.28:138][413]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VRPawn_C at Rotation: Pitch 0.000000 Yaw 179.999786 Roll 0.000000
+Translation: 145.232773 29.045593 3.458656
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.03.17-06.38.28:164][413]PIE: Server logged in
+[2022.03.17-06.38.28:182][413]PIE: Play in editor total start time 1.142 seconds.
+[2022.03.17-06.38.28:187][413]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.38.28:215][413]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.38.28:215][413]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.38.28:334][415]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.38.41:125][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.38.41:125][151]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.38.41:211][151]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.38.41:284][151]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.38.41:289][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.38.41:330][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.38.41:373][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.38.41:418][151]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.38.41:418][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.38.41:420][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.38.41:443][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.03.17-06.38.41:488][152]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.03.17-06.38.41:500][152]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.38.42:040][155]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.17-06.38.46:897][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.38.46:897][384]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.38.47:087][384]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.38.47:088][384]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:38:47 PM)
+[2022.03.17-06.38.47:088][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.38.47:100][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012295s)
+[2022.03.17-06.38.47:103][384]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.38.47:103][384]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2022.03.17-06.38.47:103][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.014523s)
+[2022.03.17-06.38.47:146][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.03.17-06.38.47:148][384]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.03.17-06.38.47:148][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.38.47:148][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.38.47:148][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.38.47:148][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.38.47:148][384]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.38.47:148][384]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.38.47:148][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.38.47:148][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.38.47:149][384]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.38.47:149][384]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.38.47:149][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.38.47:149][384]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.38.47:161][384]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.38.47:161][384]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.38.47:174][384]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.38.47:174][384]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.38.47:184][384]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.38.47:185][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.38.47:185][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.38.47:185][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.38.47:185][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.38.47:186][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.38.47:186][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.38.47:189][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.38.47:189][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.38.47:189][384]LogInit: FAudioDevice initialized.
+[2022.03.17-06.38.47:189][384]LogAudio: Display: Audio Device (ID: 28) registered with world 'EngineRoom'.
+[2022.03.17-06.38.47:214][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.38.47:234][384]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.38.47:284][384]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.38.47:300][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.38.47
+[2022.03.17-06.38.47:301][384]LogWorld: Bringing up level for play took: 0.014907
+[2022.03.17-06.38.47:302][384]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.03.17-06.38.47:310][384]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.38.47:322][384]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=145.233 Y=29.046 Z=3.459] for [VRPawn_C]
+[2022.03.17-06.38.47:322][384]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VRPawn_C at Rotation: Pitch 0.000000 Yaw 179.999786 Roll 0.000000
+Translation: 145.232773 29.045593 3.458656
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.03.17-06.38.47:345][384]PIE: Server logged in
+[2022.03.17-06.38.47:360][384]PIE: Play in editor total start time 0.464 seconds.
+[2022.03.17-06.38.47:362][384]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.38.47:400][384]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.38.47:400][384]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.38.47:504][386]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.38.57:417][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.38.57:417][828]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.38.57:494][828]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.38.57:576][828]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.38.57:581][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.38.57:626][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.38.57:672][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.38.57:726][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.38.57:726][828]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.38.57:726][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.38.57:727][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.38.57:740][828]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.03.17-06.38.57:781][829]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.03.17-06.38.57:794][829]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.38.58:349][832]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.17-06.39.02:420][101]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.17-06.39.06:753][422]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.17-06.39.08:112][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.17-06.39.08:161][507]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.03.17-06.39.08:205][507]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom0CDE5C0F4EAB56544EA7DE96988529C3.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.17-06.39.08:260][507]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.17-06.39.08:261][507]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.17-06.39.10:687][640]LogTemp: Repeating last play command: VR Preview
+[2022.03.17-06.39.10:698][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.39.10:698][640]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.39.10:888][640]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.39.10:888][640]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:39:10 PM)
+[2022.03.17-06.39.10:889][640]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.39.10:897][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007857s)
+[2022.03.17-06.39.10:898][640]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.39.10:899][640]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2022.03.17-06.39.10:899][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.009350s)
+[2022.03.17-06.39.10:937][640]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2022.03.17-06.39.10:943][640]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.03.17-06.39.10:943][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.39.10:943][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.39.10:943][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.39.10:943][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.39.10:943][640]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.39.10:943][640]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.39.10:943][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.39.10:943][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.39.10:943][640]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.39.10:943][640]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.39.10:943][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.39.10:943][640]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.39.10:959][640]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.39.10:959][640]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.39.10:973][640]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.39.10:973][640]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.39.10:985][640]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.39.10:985][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.39.10:985][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.39.10:985][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.39.10:986][640]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.39.10:986][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.39.10:986][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.39.10:988][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.39.10:988][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.39.10:988][640]LogInit: FAudioDevice initialized.
+[2022.03.17-06.39.10:988][640]LogAudio: Display: Audio Device (ID: 29) registered with world 'EngineRoom'.
+[2022.03.17-06.39.11:013][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.39.11:049][640]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.39.11:124][640]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.39.11:134][640]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.39.11
+[2022.03.17-06.39.11:135][640]LogWorld: Bringing up level for play took: 0.008624
+[2022.03.17-06.39.11:137][640]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.03.17-06.39.11:146][640]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.39.11:175][640]PIE: Server logged in
+[2022.03.17-06.39.11:191][640]PIE: Play in editor total start time 0.495 seconds.
+[2022.03.17-06.39.11:191][640]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.39.11:213][640]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.39.11:213][640]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.39.11:370][641]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.39.45:949][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.39.45:949][247]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.39.46:017][247]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.39.46:083][247]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.39.46:084][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.39.46:124][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.39.46:178][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.39.46:225][247]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.39.46:225][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.39.46:227][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.39.46:239][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.03.17-06.39.46:278][248]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.03.17-06.39.46:291][248]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.39.46:829][251]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.17-06.39.48:870][375]LogEditorViewport: Clicking on Actor (LMB): ButtonActor_C (ButtonActor2)
+[2022.03.17-06.40.04:899][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EngineRoomFloor_Floor)
+[2022.03.17-06.40.12:531][ 96]LogEditorViewport: Clicking on Actor (LMB): ButtonActor_C (ButtonActor)
+[2022.03.17-06.40.16:227][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EngineRoomFloor_Floor)
+[2022.03.17-06.40.20:035][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.17-06.40.20:081][671]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.03.17-06.40.20:111][671]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoomC049AD2848C0704BDA0CA49C5BF9C798.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.17-06.40.20:140][671]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.17-06.40.20:140][671]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.17-06.40.27:233][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.40.27:233][134]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.40.27:423][134]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.40.27:423][134]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:40:27 PM)
+[2022.03.17-06.40.27:423][134]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.40.27:431][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007874s)
+[2022.03.17-06.40.27:432][134]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.40.27:433][134]LogPlayLevel: PIE: World Init took: (0.002296s)
+[2022.03.17-06.40.27:433][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.010411s)
+[2022.03.17-06.40.27:470][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.03.17-06.40.27:472][134]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.03.17-06.40.27:472][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.40.27:472][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.40.27:472][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.40.27:472][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.40.27:472][134]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.40.27:472][134]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.40.27:472][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.40.27:472][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.40.27:473][134]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.40.27:473][134]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.40.27:473][134]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.40.27:473][134]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.40.27:486][134]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.40.27:486][134]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.40.27:495][134]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.40.27:495][134]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.40.27:505][134]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.40.27:505][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.40.27:505][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.40.27:505][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.40.27:506][134]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.40.27:506][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.40.27:506][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.40.27:508][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.40.27:508][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.40.27:508][134]LogInit: FAudioDevice initialized.
+[2022.03.17-06.40.27:508][134]LogAudio: Display: Audio Device (ID: 30) registered with world 'EngineRoom'.
+[2022.03.17-06.40.27:535][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.40.27:559][134]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.40.27:627][134]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.40.27:637][134]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.40.27
+[2022.03.17-06.40.27:639][134]LogWorld: Bringing up level for play took: 0.009101
+[2022.03.17-06.40.27:642][134]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.03.17-06.40.27:648][134]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.40.27:682][134]PIE: Server logged in
+[2022.03.17-06.40.27:696][134]PIE: Play in editor total start time 0.465 seconds.
+[2022.03.17-06.40.27:701][134]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.40.27:725][134]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.40.27:725][134]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.40.27:828][136]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.41.23:839][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.41.23:839][565]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.41.24:826][565]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.41.24:872][565]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.41.24:873][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.41.24:902][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.41.24:965][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.41.25:014][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-06.41.25:015][565]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.41.25:015][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.41.25:016][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.41.25:028][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.03.17-06.41.25:077][566]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.03.17-06.41.25:175][566]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.41.29:954][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PowerCellSlot_WallCharger)
+[2022.03.17-06.41.30:901][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PowerCellSlot_WallCharger)
+[2022.03.17-06.41.35:014][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PowerCellSlot_WallCharger)
+[2022.03.17-06.41.35:978][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PowerCellSlot_WallCharger)
+[2022.03.17-06.41.36:596][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PowerCellSlot_WallCharger)
+[2022.03.17-06.41.41:093][723]LogEditorViewport: Clicking on Actor (LMB): BP_Slot_C (BP_Slot)
+[2022.03.17-06.41.49:303][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.17-06.41.49:349][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.03.17-06.41.49:380][294]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoomB2886E464BBD4E400196D49A46649E28.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.17-06.41.49:416][294]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.17-06.41.49:416][294]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.17-06.41.53:848][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.41.53:849][577]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.41.54:959][577]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.41.54:959][577]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:41:54 PM)
+[2022.03.17-06.41.54:960][577]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.41.54:967][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006287s)
+[2022.03.17-06.41.54:967][577]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.41.54:968][577]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2022.03.17-06.41.54:968][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.007659s)
+[2022.03.17-06.41.54:999][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.03.17-06.41.55:001][577]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.03.17-06.41.55:001][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.41.55:001][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.41.55:001][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.41.55:001][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.41.55:001][577]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.41.55:001][577]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.41.55:001][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.41.55:001][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.41.55:002][577]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.41.55:002][577]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.41.55:002][577]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.41.55:002][577]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.41.55:011][577]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.41.55:011][577]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.41.55:020][577]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.41.55:020][577]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.41.55:028][577]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.41.55:028][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.41.55:028][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.41.55:028][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.41.55:029][577]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.41.55:029][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.41.55:029][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.41.55:030][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.41.55:030][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.41.55:030][577]LogInit: FAudioDevice initialized.
+[2022.03.17-06.41.55:030][577]LogAudio: Display: Audio Device (ID: 31) registered with world 'EngineRoom'.
+[2022.03.17-06.41.55:047][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.41.55:064][577]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.41.55:127][577]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.41.55:142][577]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.41.55
+[2022.03.17-06.41.55:144][577]LogWorld: Bringing up level for play took: 0.012950
+[2022.03.17-06.41.55:145][577]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.03.17-06.41.55:150][577]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.41.55:182][577]PIE: Server logged in
+[2022.03.17-06.41.55:194][577]PIE: Play in editor total start time 1.348 seconds.
+[2022.03.17-06.41.55:195][577]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.41.55:214][577]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.41.55:214][577]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.41.55:304][579]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.42.15:395][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.42.15:395][504]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.42.15:472][504]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.42.15:552][504]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.42.15:554][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.42.15:604][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.42.15:647][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.42.15:693][504]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.42.15:694][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.42.15:695][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.42.15:707][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.03.17-06.42.15:742][505]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.03.17-06.42.15:756][505]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.42.16:296][508]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.17-06.43.05:991][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.17-06.43.06:043][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.03.17-06.43.06:074][327]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom01A2D1144E1C77BD20335C9BF66E0D68.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.17-06.43.06:112][327]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.17-06.43.06:112][327]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.17-06.43.08:532][460]LogTemp: Repeating last play command: VR Preview
+[2022.03.17-06.43.08:544][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-06.43.08:544][460]LogHMD: Initializing OVRPlugin session
+[2022.03.17-06.43.08:727][460]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.17-06.43.08:727][460]PIE: New page: PIE session: EngineRoom (Mar 16, 2022, 10:43:08 PM)
+[2022.03.17-06.43.08:728][460]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.43.08:734][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006377s)
+[2022.03.17-06.43.08:735][460]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.17-06.43.08:735][460]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2022.03.17-06.43.08:735][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.007912s)
+[2022.03.17-06.43.08:771][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.03.17-06.43.08:772][460]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.03.17-06.43.08:772][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-06.43.08:772][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-06.43.08:772][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-06.43.08:772][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-06.43.08:772][460]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.17-06.43.08:772][460]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-06.43.08:772][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.17-06.43.08:772][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-06.43.08:773][460]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.17-06.43.08:773][460]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.17-06.43.08:774][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-06.43.08:774][460]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-06.43.08:784][460]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.43.08:784][460]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.43.08:794][460]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-06.43.08:794][460]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-06.43.08:801][460]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.17-06.43.08:802][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-06.43.08:802][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-06.43.08:802][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-06.43.08:802][460]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-06.43.08:802][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-06.43.08:802][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-06.43.08:804][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-06.43.08:804][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-06.43.08:804][460]LogInit: FAudioDevice initialized.
+[2022.03.17-06.43.08:804][460]LogAudio: Display: Audio Device (ID: 32) registered with world 'EngineRoom'.
+[2022.03.17-06.43.09:367][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.43.09:392][460]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.17-06.43.09:463][460]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.17-06.43.09:477][460]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.17-02.43.09
+[2022.03.17-06.43.09:478][460]LogWorld: Bringing up level for play took: 0.014145
+[2022.03.17-06.43.09:478][460]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.03.17-06.43.09:481][460]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.17-06.43.09:515][460]PIE: Server logged in
+[2022.03.17-06.43.09:532][460]PIE: Play in editor total start time 0.99 seconds.
+[2022.03.17-06.43.09:533][460]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.43.09:553][460]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.17-06.43.09:553][460]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.17-06.43.09:659][462]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-06.43.46:475][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-06.43.46:475][323]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.17-06.43.46:578][323]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.17-06.43.46:655][323]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-06.43.46:659][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.43.46:697][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-06.43.46:734][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-06.43.46:802][323]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.17-06.43.46:802][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.43.46:803][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-06.43.46:820][323]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.03.17-06.43.46:874][324]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.03.17-06.43.46:888][324]LogEngine: Changing dynamic resolution state.
+[2022.03.17-06.43.57:880][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.17-06.43.57:920][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.03.17-06.43.57:947][ 54]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoomA5F285BA449AD9C4BAB33FB1194BA90E.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.17-06.43.57:977][ 54]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.17-06.43.57:977][ 54]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
