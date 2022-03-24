@@ -20670,3 +20670,131 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.24-11.16.04:828][985]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom62BD10FD48C8C470F3FE0097B40C0377.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
 [2022.03.24-11.16.04:864][985]AssetCheck: New page: Asset Save: EngineRoom
 [2022.03.24-11.16.04:864][985]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.24-11.17.51:504][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.03.24-11.17.51:566][869]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Cockpit.Cockpit
+[2022.03.24-11.17.51:567][869]Cmd: MAP LOAD FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.24-11.17.51:567][869]LightingResults: New page: Lighting Build
+[2022.03.24-11.17.51:569][869]LoadErrors: New page: Loading map: Cockpit.umap
+[2022.03.24-11.17.51:571][869]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-11.17.51:571][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-11.17.51:571][869]MapCheck: New page: Map Check
+[2022.03.24-11.17.51:571][869]LightingResults: New page: Lighting Build
+[2022.03.24-11.17.51:598][869]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-11.17.51:605][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.03.24-11.17.51:606][869]LogAudio: Display: Audio Device (ID: 1) registered with world 'Cockpit'.
+[2022.03.24-11.17.51:628][869]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.24-11.17.51:628][869]LogAIModule: Creating AISystem for world Cockpit
+[2022.03.24-11.17.51:658][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.03.24-11.17.51:667][869]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.24-11.17.51:667][869]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2022.03.24-11.17.51:667][869]LogFileHelpers: Loading map 'Cockpit' took 0.101
+[2022.03.24-11.18.12:508][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-11.18.13:877][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-11.18.14:553][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-11.19.41:292][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-11.19.46:212][434]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.03.24-11.19.54:378][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-11.19.55:449][206]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.03.24-11.20.07:604][148]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-11.20.08:386][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-11.20.09:745][312]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.03.24-11.20.32:478][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-11.20.33:842][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.24-11.20.34:605][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.24-11.20.35:154][474]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.03.24-11.20.48:464][530]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.24-11.20.49:376][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-11.20.51:441][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-11.20.51:471][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.03.24-11.20.51:488][758]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/Cockpit8215E71540999E5D38651A83D76A4DBD.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap'
+[2022.03.24-11.20.51:500][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit_BuiltData" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset" SILENT=true
+[2022.03.24-11.20.51:505][758]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/Cockpit_BuiltData6942BFC44DB697F5DD4CA381C5A204A2.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset'
+[2022.03.24-11.20.51:530][758]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.24-11.20.51:530][758]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Cockpit_BuiltData.Cockpit_BuiltData
+[2022.03.24-11.20.51:530][758]LogContentValidation: Display: Validating World /Game/Maps/Cockpit.Cockpit
+[2022.03.24-11.20.54:617][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-11.20.54:617][943]LogHMD: Initializing OVRPlugin session
+[2022.03.24-11.20.54:808][943]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-11.20.54:809][943]PIE: New page: PIE session: Cockpit (Mar 24, 2022, 3:20:54 AM)
+[2022.03.24-11.20.54:811][943]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-11.20.54:816][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005387s)
+[2022.03.24-11.20.54:818][943]LogAIModule: Creating AISystem for world Cockpit
+[2022.03.24-11.20.54:818][943]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2022.03.24-11.20.54:818][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cockpit.Cockpit to /Game/Maps/UEDPIE_0_Cockpit.Cockpit (0.006848s)
+[2022.03.24-11.20.54:839][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.03.24-11.20.54:840][943]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.24-11.20.54:840][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-11.20.54:840][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-11.20.54:840][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-11.20.54:840][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-11.20.54:840][943]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-11.20.54:840][943]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-11.20.54:840][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-11.20.54:840][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-11.20.54:841][943]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-11.20.54:841][943]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-11.20.54:841][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-11.20.54:841][943]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-11.20.54:851][943]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-11.20.54:851][943]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-11.20.54:859][943]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-11.20.54:859][943]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-11.20.54:867][943]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-11.20.54:867][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-11.20.54:867][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-11.20.54:867][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-11.20.54:868][943]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-11.20.54:868][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-11.20.54:868][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-11.20.54:869][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-11.20.54:869][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-11.20.54:869][943]LogInit: FAudioDevice initialized.
+[2022.03.24-11.20.54:869][943]LogAudio: Display: Audio Device (ID: 3) registered with world 'Cockpit'.
+[2022.03.24-11.20.54:887][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-11.20.54:899][943]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-11.20.54:967][943]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-11.20.54:973][943]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cockpit.Cockpit up for play (max tick rate 0) at 2022.03.24-07.20.54
+[2022.03.24-11.20.54:973][943]LogWorld: Bringing up level for play took: 0.005311
+[2022.03.24-11.20.54:974][943]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.24-11.20.54:977][943]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-11.20.54:978][943]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-11.20.54:981][943]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-11.20.55:003][943]PIE: Server logged in
+[2022.03.24-11.20.55:020][943]PIE: Play in editor total start time 0.403 seconds.
+[2022.03.24-11.20.55:023][943]LogEngine: Changing dynamic resolution state.
+[2022.03.24-11.20.55:050][943]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-11.20.55:050][943]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-11.20.55:153][945]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-11.21.12:814][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-11.21.12:814][ 16]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-11.21.12:879][ 16]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-11.21.12:937][ 16]LogWorld: UWorld::CleanupWorld for Cockpit, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-11.21.12:944][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-11.21.12:988][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-11.21.13:050][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-11.21.13:078][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-11.21.13:078][ 16]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-11.21.13:078][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-11.21.13:080][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-11.21.13:087][ 16]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-11.21.13:087][ 16]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-11.21.13:090][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.03.24-11.21.13:125][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.24-11.21.13:136][ 17]LogEngine: Changing dynamic resolution state.
+[2022.03.24-11.21.14:061][ 79]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.03.24-11.21.27:209][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-11.21.27:243][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.03.24-11.21.27:263][123]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/CockpitC40408744D1EA714D44E3CBA7258ADF4.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap'
+[2022.03.24-11.21.27:275][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit_BuiltData" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset" SILENT=true
+[2022.03.24-11.21.27:280][123]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/Cockpit_BuiltData746EC2FF469A73D7E9F6A09DF2543A15.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset'
+[2022.03.24-11.21.27:299][123]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.24-11.21.27:299][123]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Cockpit_BuiltData.Cockpit_BuiltData
+[2022.03.24-11.21.27:299][123]LogContentValidation: Display: Validating World /Game/Maps/Cockpit.Cockpit
+[2022.03.24-11.21.30:521][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-11.21.30:545][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.24-11.21.30:562][377]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/CockpitDFBB85124E84E91E472BEDA19EFF18ED.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap'
+[2022.03.24-11.21.30:572][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit_BuiltData" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset" SILENT=true
+[2022.03.24-11.21.30:577][377]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/Cockpit_BuiltDataA5388A804092CD356ABD05AB89216777.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset'
+[2022.03.24-11.21.30:598][377]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.24-11.21.30:598][377]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Cockpit_BuiltData.Cockpit_BuiltData
+[2022.03.24-11.21.30:598][377]LogContentValidation: Display: Validating World /Game/Maps/Cockpit.Cockpit
