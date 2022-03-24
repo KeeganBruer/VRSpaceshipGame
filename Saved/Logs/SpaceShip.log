@@ -3012,3 +3012,89 @@ BP_Verti_lever_C.ReceiveTick
 [2022.03.24-05.18.03:129][735]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.24-05.18.03:129][735]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Cockpit_BuiltData.Cockpit_BuiltData
 [2022.03.24-05.18.03:129][735]LogContentValidation: Display: Validating World /Game/Maps/Cockpit.Cockpit
+[2022.03.24-05.20.53:104][804]LogEditorViewport: Clicking on Actor (LMB): BP_Horiz_lever_C (BP_lever)
+[2022.03.24-05.22.39:478][602]LogSlate: Window 'BP_Horiz_lever' being destroyed
+[2022.03.24-05.22.39:488][602]LogSlate: Window 'BP_Horiz_lever' being destroyed
+[2022.03.24-05.22.39:505][602]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-05.22.39:505][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-05.22.39:766][602]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-05.22.39:766][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-05.22.39:876][602]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.24-05.22.39:876][602]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-05.22.39:876][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-05.22.39:931][602]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.24-05.22.39:931][602]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-05.22.39:931][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-05.22.39:990][602]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.24-05.22.39:990][602]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-05.22.39:990][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-05.22.40:040][602]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.24-05.22.40:040][602]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-05.22.40:040][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-05.22.40:090][602]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.24-05.22.40:090][602]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-05.22.40:090][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-05.22.43:413][837]LogEditorViewport: Clicking on Actor (LMB): BP_Horiz_lever_C (BP_lever)
+[2022.03.24-05.30.01:935][382]LogEditorViewport: Clicking on Actor (LMB): Keyboard_C (Keyboard)
+[2022.03.24-05.30.05:486][621]LogEditorViewport: Clicking on Actor (LMB): FlightControl_C (FlightControl)
+[2022.03.24-05.30.11:155][ 56]LogEditorViewport: Clicking on Actor (LMB): Keyboard_C (Keyboard)
+[2022.03.24-05.30.35:812][ 14]LogEditorViewport: Clicking on Actor (LMB): Keyboard_C (Keyboard)
+[2022.03.24-05.30.41:342][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-05.30.47:741][985]LogEditorViewport: Clicking on Actor (LMB): BP_Horiz_lever_C (BP_lever)
+[2022.03.24-05.30.50:993][203]LogEditorViewport: Clicking on Actor (CTRL LMB): FlightControl_C (FlightControl)
+[2022.03.24-05.30.52:180][296]LogEditorViewport: Clicking on Actor (CTRL LMB): Keyboard_C (Keyboard)
+[2022.03.24-05.30.53:152][374]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2022.03.24-05.31.02:399][ 10]Cmd: TRANSACTION UNDO
+[2022.03.24-05.31.02:399][ 10]LogEditorTransaction: Undo Move Actors
+[2022.03.24-05.31.03:103][ 35]Cmd: TRANSACTION UNDO
+[2022.03.24-05.31.03:103][ 35]LogEditorTransaction: Undo Move Actors
+[2022.03.24-05.31.08:004][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-05.31.08:158][389]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2022.03.24-05.31.08:197][389]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/Cockpit6AF7324045ED68A9170DE6918AD203E0.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap'
+[2022.03.24-05.31.08:209][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit_BuiltData" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset" SILENT=true
+[2022.03.24-05.31.08:214][389]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/Cockpit_BuiltDataAE28383F48B292098462C19081269D50.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset'
+[2022.03.24-05.31.08:234][389]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.24-05.31.08:235][389]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Cockpit_BuiltData.Cockpit_BuiltData
+[2022.03.24-05.31.08:235][389]LogContentValidation: Display: Validating World /Game/Maps/Cockpit.Cockpit
+[2022.03.24-05.31.12:973][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-05.31.47:689][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-05.31.47:792][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.03.24-05.31.47:814][686]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/CockpitA8AB8BB74AEB81B082C040B9B39FB748.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap'
+[2022.03.24-05.31.47:824][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit_BuiltData" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset" SILENT=true
+[2022.03.24-05.31.47:829][686]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/Cockpit_BuiltDataF4B767C64556F2B3AC50BE9C2AED67C3.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset'
+[2022.03.24-05.31.47:849][686]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.24-05.31.47:849][686]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Cockpit_BuiltData.Cockpit_BuiltData
+[2022.03.24-05.31.47:849][686]LogContentValidation: Display: Validating World /Game/Maps/Cockpit.Cockpit
+[2022.03.24-05.35.56:029][667]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave Engine_Broken...
+[2022.03.24-05.35.56:372][667]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2727808 while cooking SoundWave /Game/Sounds/Engine_Broken.Engine_Broken.
+[2022.03.24-05.35.58:243][809]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave Engine_Working...
+[2022.03.24-05.35.58:352][809]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 868352 while cooking SoundWave /Game/Sounds/Engine_Working.Engine_Working.
+[2022.03.24-05.36.00:658][986]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave Eject...
+[2022.03.24-05.36.00:687][986]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 159340 while cooking SoundWave /Game/Sounds/Eject.Eject.
+[2022.03.24-05.36.03:168][172]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave Door...
+[2022.03.24-05.36.03:200][172]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 232488 while cooking SoundWave /Game/Sounds/Door.Door.
+[2022.03.24-05.36.06:008][393]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave FuseClick...
+[2022.03.24-05.36.06:022][393]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 27484 while cooking SoundWave /Game/Sounds/FuseClick.FuseClick.
+[2022.03.24-05.36.11:275][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.03.24-05.36.11:353][818]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.24-05.36.11:357][818]Cmd: MAP LOAD FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.24-05.36.11:357][818]LightingResults: New page: Lighting Build
+[2022.03.24-05.36.11:358][818]LoadErrors: New page: Loading map: EngineRoom.umap
+[2022.03.24-05.36.11:386][818]LogWorld: UWorld::CleanupWorld for Cockpit, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-05.36.11:387][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-05.36.11:387][818]MapCheck: New page: Map Check
+[2022.03.24-05.36.11:387][818]LightingResults: New page: Lighting Build
+[2022.03.24-05.36.11:429][818]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-05.36.11:461][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.03.24-05.36.11:463][818]LogAudio: Display: Audio Device (ID: 1) registered with world 'EngineRoom'.
+[2022.03.24-05.36.11:477][818]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.24-05.36.11:477][818]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.24-05.36.11:500][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.03.24-05.36.11:510][818]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.24-05.36.11:510][818]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2022.03.24-05.36.11:510][818]LogFileHelpers: Loading map 'EngineRoom' took 0.157
+[2022.03.24-05.37.41:832][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-05.37.41:854][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.03.24-05.37.41:886][277]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom063D2CF94F1772EE33ACA8843A5332BE.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.24-05.37.41:916][277]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.24-05.37.41:916][277]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
