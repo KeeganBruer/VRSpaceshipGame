@@ -749,3 +749,1738 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.24-08.43.01:846][  0]LogUObjectArray: 17098 objects as part of root set at end of initial load.
 [2022.03.24-08.43.01:846][  0]LogUObjectAllocator: 4283840 out of 0 bytes used by permanent object pool.
 [2022.03.24-08.43.01:846][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.24-08.43.02:116][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 369C20154B65D453B47B87B35E54AE29 | Instance: DF1345274713FABA4DC3EEBCD0B5D0C7 (LAPTOP-ETR0QNFM-177164).
+[2022.03.24-08.43.02:236][  0]LogPython: Using Python 3.7.7
+[2022.03.24-08.43.02:784][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.24-08.43.02:789][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.24-08.43.03:122][  0]SourceControl: Source control is disabled
+[2022.03.24-08.43.03:122][  0]SourceControl: Source control is disabled
+[2022.03.24-08.43.03:125][  0]SourceControl: Source control is disabled
+[2022.03.24-08.43.03:128][  0]SourceControl: Source control is disabled
+[2022.03.24-08.43.03:136][  0]SourceControl: Source control is disabled
+[2022.03.24-08.43.03:139][  0]LogUProjectInfo: Found projects:
+[2022.03.24-08.43.03:141][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.24-08.43.03:143][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.24-08.43.03:143][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.24-08.43.03:150][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.24-08.43.03:442][  0]LogOnline: Oculus: Oculus Startup!
+[2022.03.24-08.43.03:462][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.24-08.43.03:482][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.24-08.43.03:482][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.24-08.43.03:642][  0]LogCollectionManager: Loaded 0 collections in 0.000702 seconds
+[2022.03.24-08.43.03:665][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Unreal/VRSpaceshipGame/Saved/Collections/' took 0.00s
+[2022.03.24-08.43.03:665][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Unreal/VRSpaceshipGame/Content/Developers/keega/Collections/' took 0.00s
+[2022.03.24-08.43.03:665][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Unreal/VRSpaceshipGame/Content/Collections/' took 0.00s
+[2022.03.24-08.43.03:665][  0]LogOcInput: OculusInput pre-init called
+[2022.03.24-08.43.03:923][  0]LogEngine: Initializing Engine...
+[2022.03.24-08.43.03:923][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.24-08.43.03:923][  0]LogHMD: Initializing OVRPlugin session
+[2022.03.24-08.43.04:264][  0]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-08.43.04:264][  0]LogHMD: Oculus plugin initialized. Version: 4.27.2-18319896+++UE4+Release-4.27, OVRPlugin: 1.59.0
+[2022.03.24-08.43.04:265][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.24-08.43.04:433][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.24-08.43.04:441][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.24-08.43.04:448][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.24-08.43.04:451][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.24-08.43.04:451][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.24-08.43.04:451][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.24-08.43.04:451][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.24-08.43.04:451][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-08.43.04:451][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-08.43.04:451][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-08.43.04:451][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-08.43.04:451][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-08.43.04:451][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-08.43.04:451][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-08.43.04:451][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-08.43.04:452][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-08.43.04:452][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-08.43.04:452][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-08.43.04:452][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-08.43.04:468][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-08.43.04:468][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-08.43.04:468][  0]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.24-08.43.04:468][  0]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.24-08.43.04:468][  0]LogAudioMixer: Display: 4: BackLeft
+[2022.03.24-08.43.04:468][  0]LogAudioMixer: Display: 5: BackRight
+[2022.03.24-08.43.04:468][  0]LogAudioMixer: Display: 6: SideLeft
+[2022.03.24-08.43.04:468][  0]LogAudioMixer: Display: 7: SideRight
+[2022.03.24-08.43.04:620][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.24-08.43.04:624][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-08.43.04:626][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-08.43.04:626][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-08.43.04:627][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-08.43.04:634][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-08.43.04:634][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.24-08.43.04:636][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-08.43.04:636][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-08.43.04:636][  0]LogInit: FAudioDevice initialized.
+[2022.03.24-08.43.04:636][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.24-08.43.04:636][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.24-08.43.04:712][  0]LogDerivedDataCache: Saved boot cache 0.08s 122MB C:/Users/keega/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.24-08.43.04:716][  0]LogInit: Texture streaming: Enabled
+[2022.03.24-08.43.04:730][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.03.24-08.43.04:733][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.24-08.43.04:733][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.24-08.43.04:734][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.24-08.43.04:766][  0]LogInit: Transaction tracking system initialized
+[2022.03.24-08.43.04:786][  0]BlueprintLog: New page: Editor Load
+[2022.03.24-08.43.04:845][  0]LocalizationService: Localization service is disabled
+[2022.03.24-08.43.04:868][  0]TimingProfiler: Initialize
+[2022.03.24-08.43.04:868][  0]TimingProfiler: OnSessionChanged
+[2022.03.24-08.43.04:868][  0]LoadingProfiler: Initialize
+[2022.03.24-08.43.04:868][  0]LoadingProfiler: OnSessionChanged
+[2022.03.24-08.43.04:868][  0]NetworkingProfiler: Initialize
+[2022.03.24-08.43.04:868][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.24-08.43.04:868][  0]MemoryProfiler: Initialize
+[2022.03.24-08.43.04:868][  0]MemoryProfiler: OnSessionChanged
+[2022.03.24-08.43.04:927][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.24-08.43.04:928][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.24-08.43.04:928][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.24-08.43.05:132][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.24-08.43.05:132][  0]LogCook: Display: Mobile HDR setting 0
+[2022.03.24-08.43.06:973][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Unreal/VRSpaceshipGame/Content/' took 0.00s
+[2022.03.24-08.43.07:458][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.24-08.43.07:463][  0]SourceControl: Source control is disabled
+[2022.03.24-08.43.07:463][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.218
+[2022.03.24-08.43.07:463][  0]Cmd: MAP LOAD FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.24-08.43.07:463][  0]LightingResults: New page: Lighting Build
+[2022.03.24-08.43.07:465][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-08.43.07:465][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-08.43.07:465][  0]MapCheck: New page: Map Check
+[2022.03.24-08.43.07:465][  0]LightingResults: New page: Lighting Build
+[2022.03.24-08.43.07:472][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-08.43.07:478][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.24-08.43.08:001][  0]LogMaterial: Display: Missing cached shadermap for BrushedMetal in PCD3D_SM5, Default, SM5 (DDC key hash: 3178B5DDD54424745BBB61A2F255E1BC3F765B4A), compiling. 
+[2022.03.24-08.43.08:137][  0]LogShaderCompilers: Display: Submitted 67 shader compile jobs with 'Low' priority
+[2022.03.24-08.43.08:143][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 67
+[2022.03.24-08.43.08:143][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 59
+[2022.03.24-08.43.08:143][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 51
+[2022.03.24-08.43.08:143][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 43
+[2022.03.24-08.43.08:143][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2022.03.24-08.43.08:143][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2022.03.24-08.43.08:143][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2022.03.24-08.43.08:143][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.03.24-08.43.08:143][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 3
+[2022.03.24-08.43.08:143][  0]LogShaderCompilers: Display: Started 67 'Local' shader compile jobs with 'Low' priority
+[2022.03.24-08.43.08:160][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Cockpit'.
+[2022.03.24-08.43.08:161][  0]LogAIModule: Creating AISystem for world Cockpit
+[2022.03.24-08.43.08:188][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.24-08.43.08:196][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.03.24-08.43.08:196][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.24-08.43.08:197][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.256ms to complete.
+[2022.03.24-08.43.08:197][  0]LogFileHelpers: Loading map 'Cockpit' took 0.735
+[2022.03.24-08.43.08:200][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.956
+[2022.03.24-08.43.08:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.43.08:367][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.43.08:378][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.43.08:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.43.08:410][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0140 seconds. Added 3839 classes and 936 folders.
+[2022.03.24-08.43.08:436][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.24-08.43.08:450][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.24-08.43.08:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.24-08.43.08:450][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:450][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.24-08.43.08:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2022.03.24-08.43.08:462][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.24-08.43.08:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.24-08.43.08:462][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:462][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.24-08.43.08:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000288
+[2022.03.24-08.43.08:470][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.24-08.43.08:470][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:470][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.24-08.43.08:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.24-08.43.08:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.03.24-08.43.08:476][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.24-08.43.08:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.24-08.43.08:476][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:476][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.24-08.43.08:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000205
+[2022.03.24-08.43.08:485][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.24-08.43.08:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.24-08.43.08:485][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:485][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.24-08.43.08:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.03.24-08.43.08:492][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.24-08.43.08:493][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:493][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.24-08.43.08:493][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:493][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.24-08.43.08:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2022.03.24-08.43.08:499][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.24-08.43.08:499][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:499][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.24-08.43.08:499][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:500][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.24-08.43.08:500][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2022.03.24-08.43.08:507][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.24-08.43.08:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.24-08.43.08:507][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:507][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.24-08.43.08:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.03.24-08.43.08:515][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.24-08.43.08:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.24-08.43.08:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.24-08.43.08:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.03.24-08.43.08:523][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.24-08.43.08:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.24-08.43.08:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.24-08.43.08:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2022.03.24-08.43.08:531][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.24-08.43.08:531][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:531][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.24-08.43.08:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.24-08.43.08:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.03.24-08.43.08:540][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.24-08.43.08:540][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:540][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.24-08.43.08:540][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:540][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.24-08.43.08:540][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2022.03.24-08.43.08:547][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.24-08.43.08:547][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:547][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.24-08.43.08:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.24-08.43.08:548][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.03.24-08.43.08:556][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.24-08.43.08:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.24-08.43.08:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.24-08.43.08:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2022.03.24-08.43.08:563][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.24-08.43.08:563][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:563][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.24-08.43.08:564][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:564][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.24-08.43.08:564][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.03.24-08.43.08:571][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.24-08.43.08:571][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:571][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.24-08.43.08:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.24-08.43.08:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.03.24-08.43.08:578][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.24-08.43.08:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.24-08.43.08:578][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:578][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.24-08.43.08:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.03.24-08.43.08:586][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.24-08.43.08:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.24-08.43.08:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.24-08.43.08:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.03.24-08.43.08:592][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.24-08.43.08:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.24-08.43.08:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.24-08.43.08:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.03.24-08.43.08:602][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.24-08.43.08:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.24-08.43.08:602][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:602][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.24-08.43.08:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2022.03.24-08.43.08:609][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.24-08.43.08:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.24-08.43.08:609][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:609][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.24-08.43.08:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.03.24-08.43.08:617][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.24-08.43.08:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.24-08.43.08:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.24-08.43.08:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.03.24-08.43.08:622][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.24-08.43.08:622][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:622][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.24-08.43.08:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.24-08.43.08:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.03.24-08.43.08:625][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.24-08.43.08:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.24-08.43.08:625][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:625][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.24-08.43.08:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.03.24-08.43.08:630][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.24-08.43.08:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.24-08.43.08:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.24-08.43.08:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.03.24-08.43.08:636][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.24-08.43.08:636][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.24-08.43.08:636][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.24-08.43.08:636][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.24-08.43.08:636][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.24-08.43.08:636][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.03.24-08.43.08:931][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2022.03.24-08.43.08:932][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2022.03.24-08.43.09:012][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.24-08.43.09:025][  0]LogSlate: Took 0.010698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.24-08.43.09:030][  0]LogSlate: Took 0.000937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.24-08.43.09:355][  0]LogRenderer: Reallocating scene render targets to support 792x428 Format 10 NumSamples 4 (Frame:1).
+[2022.03.24-08.43.10:954][  0]LogSlate: Took 0.010357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.24-08.43.11:241][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2022.03.24-08.43.11:241][  0]LogLoad: (Engine Initialization) Total time: 15.00 seconds
+[2022.03.24-08.43.11:241][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.24-08.43.11:280][  0]LogOcInput: OculusInput is initialized
+[2022.03.24-08.43.11:367][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.24-08.43.11:390][  0]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-08.43.11:475][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cockpit_Floor1)
+[2022.03.24-08.43.11:747][  2]LogAssetRegistry: Asset discovery search completed in 10.8152 seconds
+[2022.03.24-08.43.11:761][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2022.03.24-08.43.12:327][ 13]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.24-08.43.16:573][ 82]LogFileCache: Retrieving MD5 hashes for directory 'D:/Workspace/Unreal/VRSpaceshipGame/Content/' took 5.26s
+[2022.03.24-08.43.20:563][163]LogShaderCompilers: Warning: Failed to compile Material /DatasmithContent/Materials/FBXImporter/VRED/BrushedMetal.BrushedMetal for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.24-08.43.20:564][163]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2491,2-67):  warning X3206: implicit truncation of vector type
+[2022.03.24-08.43.20:564][163]LogShaderCompilers: Display: /Engine/Generated/Material.ush(2493,2-68):  warning X3206: implicit truncation of vector type
+[2022.03.24-08.43.20:564][163]LogShaderCompilers: Display: /Engine/Private/AnisotropyPassShader.usf(169,3-16):  err0r X3018: invalid subscript 'Interps'
+[2022.03.24-08.43.42:426][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.03.24-08.43.42:845][945]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.24-08.43.42:846][945]Cmd: MAP LOAD FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.24-08.43.42:846][945]LightingResults: New page: Lighting Build
+[2022.03.24-08.43.42:847][945]LoadErrors: New page: Loading map: EngineRoom.umap
+[2022.03.24-08.43.42:849][945]LogWorld: UWorld::CleanupWorld for Cockpit, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-08.43.42:849][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-08.43.42:849][945]MapCheck: New page: Map Check
+[2022.03.24-08.43.42:850][945]LightingResults: New page: Lighting Build
+[2022.03.24-08.43.42:855][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-08.43.42:859][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.03.24-08.43.42:860][945]LogAudio: Display: Audio Device (ID: 1) registered with world 'EngineRoom'.
+[2022.03.24-08.43.42:874][945]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.24-08.43.42:874][945]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.24-08.43.42:874][945]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=25.130, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2022.03.24-08.43.42:884][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.24-08.43.42:891][945]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.24-08.43.42:892][945]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.329ms to complete.
+[2022.03.24-08.43.42:892][945]LogFileHelpers: Loading map 'EngineRoom' took 0.047
+[2022.03.24-08.43.49:821][356]LogEditorViewport: Clicking on Actor (LMB): ButtonActor_C (ButtonActor2)
+[2022.03.24-08.44.38:930][182]EditorErrors: New page: Actor Reattachment
+[2022.03.24-08.44.43:376][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-08.44.43:387][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.03.24-08.44.43:410][444]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom99722C08479F3B9CF9FE129E7842E979.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.24-08.44.43:438][444]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.24-08.44.43:439][444]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.24-08.44.47:903][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-08.44.47:903][704]PIE: New page: PIE session: EngineRoom (Mar 24, 2022, 12:44:47 AM)
+[2022.03.24-08.44.47:905][704]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.24-08.44.47:906][704]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.24-08.44.47:906][704]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-08.44.47:914][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008281s)
+[2022.03.24-08.44.47:915][704]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.24-08.44.47:916][704]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2022.03.24-08.44.47:916][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.009871s)
+[2022.03.24-08.44.47:923][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.03.24-08.44.47:924][704]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.24-08.44.47:924][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-08.44.47:924][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-08.44.47:924][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-08.44.47:924][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-08.44.47:924][704]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-08.44.47:924][704]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-08.44.47:924][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-08.44.47:924][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-08.44.47:925][704]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-08.44.47:925][704]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-08.44.47:925][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-08.44.47:925][704]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-08.44.47:936][704]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-08.44.47:936][704]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-08.44.47:944][704]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-08.44.47:944][704]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-08.44.47:953][704]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-08.44.47:953][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-08.44.47:953][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-08.44.47:953][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-08.44.47:954][704]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-08.44.47:954][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-08.44.47:954][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-08.44.47:955][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-08.44.47:955][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-08.44.47:955][704]LogInit: FAudioDevice initialized.
+[2022.03.24-08.44.47:955][704]LogAudio: Display: Audio Device (ID: 2) registered with world 'EngineRoom'.
+[2022.03.24-08.44.47:984][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.44.48:007][704]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-08.44.49:034][704]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-08.44.49:038][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.24-04.44.49
+[2022.03.24-08.44.49:038][704]LogWorld: Bringing up level for play took: 0.002267
+[2022.03.24-08.44.49:038][704]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.24-08.44.49:040][704]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-08.44.49:041][704]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.24-08.44.49:049][704]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.44.49:050][704]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.44.49:056][704]PIE: Server logged in
+[2022.03.24-08.44.49:058][704]PIE: Play in editor total start time 1.158 seconds.
+[2022.03.24-08.44.49:061][704]LogEngine: Changing dynamic resolution state.
+[2022.03.24-08.44.49:073][704]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-08.44.49:099][704]LogRenderer: Warning: Resizing VR buffer to 3136 by 1568
+[2022.03.24-08.44.49:099][704]LogRenderer: Reallocating scene render targets to support 3136x1568 Format 10 NumSamples 4 (Frame:1).
+[2022.03.24-08.44.49:099][704]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-08.44.49:134][706]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-08.45.04:017][806]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:002A
+[2022.03.24-08.45.04:017][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.04:017][806]LogScript: Warning: Accessed None
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:003F
+[2022.03.24-08.45.04:017][806]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.04:017][806]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:007E
+[2022.03.24-08.45.04:017][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.10:217][260]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:002A
+[2022.03.24-08.45.10:217][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.10:217][260]LogScript: Warning: Accessed None
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:003F
+[2022.03.24-08.45.10:217][260]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.10:217][260]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:007E
+[2022.03.24-08.45.10:217][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.12:865][454]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:002A
+[2022.03.24-08.45.12:865][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.12:866][454]LogScript: Warning: Accessed None
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:003F
+[2022.03.24-08.45.12:866][454]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.12:866][454]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:007E
+[2022.03.24-08.45.12:866][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.13:700][515]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:002A
+[2022.03.24-08.45.13:700][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.13:700][515]LogScript: Warning: Accessed None
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:003F
+[2022.03.24-08.45.13:701][515]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.13:701][515]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:007E
+[2022.03.24-08.45.13:701][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.14:292][558]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:002A
+[2022.03.24-08.45.14:292][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.14:292][558]LogScript: Warning: Accessed None
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:003F
+[2022.03.24-08.45.14:292][558]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.14:292][558]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:007E
+[2022.03.24-08.45.14:292][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.14:819][596]LogScript: Warning: Accessed None trying to read property ChargeSlot
+	ChargeButton_C /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom:PersistentLevel.ButtonActor2
+	Function /Game/Interactables/Implementations/ChargeButton.ChargeButton_C:ExecuteUbergraph_ChargeButton:002A
+[2022.03.24-08.45.14:819][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.14:819][596]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.14:819][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.15:356][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.15:356][635]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.15:357][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.18:238][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.18:238][846]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.18:238][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.18:796][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.18:796][887]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.18:796][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChargeSlot". Blueprint:  ChargeButton Function:  Execute Ubergraph Charge Button Graph:  EventGraph Node:  Branch
+[2022.03.24-08.45.24:038][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.45.24:038][258]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-08.45.24:092][258]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-08.45.24:159][258]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-08.45.24:160][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-08.45.24:194][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-08.45.24:226][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-08.45.24:242][258]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-08.45.24:242][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-08.45.24:246][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-08.45.24:263][258]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-08.45.24:263][258]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.45.24:267][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.03.24-08.45.24:375][258]LogSlate: Took 0.008274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.24-08.45.24:429][259]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.24-08.45.24:478][259]LogEngine: Changing dynamic resolution state.
+[2022.03.24-08.45.45:141][316]LogEditorViewport: Clicking on Actor (LMB): BP_Slot_C (BP_Slot)
+[2022.03.24-08.45.50:374][566]LogEditorViewport: Clicking on Actor (LMB): ChargeButton_C (ButtonActor2)
+[2022.03.24-08.45.54:524][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Outlet2)
+[2022.03.24-08.45.59:609][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EngineRoom_Floor)
+[2022.03.24-08.46.00:511][ 42]LogEditorViewport: Clicking on Actor (LMB): BP_Slot_C (BP_Slot4)
+[2022.03.24-08.46.04:079][213]LogEditorViewport: Clicking on Actor (LMB): ChargeButton_C (ButtonActor2)
+[2022.03.24-08.46.09:839][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-08.46.09:848][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.03.24-08.46.09:871][481]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom575E61E141D690F4014E838E915A7E3A.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.24-08.46.09:902][481]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.24-08.46.09:902][481]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.24-08.46.14:231][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-08.46.14:231][683]LogHMD: Initializing OVRPlugin session
+[2022.03.24-08.46.14:415][683]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-08.46.14:415][683]PIE: New page: PIE session: EngineRoom (Mar 24, 2022, 12:46:14 AM)
+[2022.03.24-08.46.14:415][683]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-08.46.14:422][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006956s)
+[2022.03.24-08.46.14:423][683]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.24-08.46.14:423][683]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2022.03.24-08.46.14:423][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.008355s)
+[2022.03.24-08.46.14:431][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.03.24-08.46.14:432][683]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.24-08.46.14:432][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-08.46.14:432][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-08.46.14:432][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-08.46.14:432][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-08.46.14:432][683]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-08.46.14:432][683]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-08.46.14:432][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-08.46.14:432][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-08.46.14:432][683]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-08.46.14:432][683]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-08.46.14:432][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-08.46.14:432][683]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-08.46.14:442][683]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-08.46.14:442][683]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-08.46.14:450][683]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-08.46.14:450][683]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-08.46.14:457][683]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-08.46.14:458][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-08.46.14:458][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-08.46.14:458][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-08.46.14:458][683]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-08.46.14:458][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-08.46.14:458][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-08.46.14:460][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-08.46.14:460][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-08.46.14:460][683]LogInit: FAudioDevice initialized.
+[2022.03.24-08.46.14:460][683]LogAudio: Display: Audio Device (ID: 3) registered with world 'EngineRoom'.
+[2022.03.24-08.46.14:480][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.46.14:497][683]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-08.46.14:553][683]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-08.46.14:561][683]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.24-04.46.14
+[2022.03.24-08.46.14:563][683]LogWorld: Bringing up level for play took: 0.008260
+[2022.03.24-08.46.14:564][683]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.03.24-08.46.14:571][683]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-08.46.14:577][683]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.46.14:578][683]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.46.14:590][683]PIE: Server logged in
+[2022.03.24-08.46.14:600][683]PIE: Play in editor total start time 0.371 seconds.
+[2022.03.24-08.46.14:601][683]LogEngine: Changing dynamic resolution state.
+[2022.03.24-08.46.14:629][683]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-08.46.14:629][683]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-08.46.14:731][685]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-08.46.41:342][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.46.41:342][426]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-08.46.41:430][426]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-08.46.41:488][426]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-08.46.41:495][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-08.46.41:521][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-08.46.41:544][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-08.46.41:556][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-08.46.41:557][426]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-08.46.41:557][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-08.46.41:561][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-08.46.41:577][426]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-08.46.41:577][426]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.46.41:583][426]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2022.03.24-08.46.41:630][427]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.24-08.46.41:645][427]LogEngine: Changing dynamic resolution state.
+[2022.03.24-08.46.49:520][827]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/Implementations/ChargeButton.ChargeButton
+[2022.03.24-08.46.50:216][827]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.03.24-08.46.51:199][827]LogSlate: Took 0.000402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.24-08.46.51:311][828]LogSlate: Took 0.003831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.24-08.47.02:285][306]BlueprintLog: New page: Compile ChargeButton
+[2022.03.24-08.47.02:348][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.03.24-08.47.03:036][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Implementations/ChargeButton" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/ChargeButton.uasset" SILENT=true
+[2022.03.24-08.47.03:059][333]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/ChargeButton7874151A421F9273056B6EB78891DFC1.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/ChargeButton.uasset'
+[2022.03.24-08.47.03:087][333]AssetCheck: New page: Asset Save: ChargeButton
+[2022.03.24-08.47.03:088][333]LogContentValidation: Display: Validating Blueprint /Game/Interactables/Implementations/ChargeButton.ChargeButton
+[2022.03.24-08.47.38:298][922]BlueprintLog: New page: Compile ChargeButton
+[2022.03.24-08.47.38:358][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.03.24-08.47.39:104][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Implementations/ChargeButton" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/ChargeButton.uasset" SILENT=true
+[2022.03.24-08.47.39:122][952]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/ChargeButtonF00C15CC418E61588A674C90814178F4.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/ChargeButton.uasset'
+[2022.03.24-08.47.39:146][952]AssetCheck: New page: Asset Save: ChargeButton
+[2022.03.24-08.47.39:146][952]LogContentValidation: Display: Validating Blueprint /Game/Interactables/Implementations/ChargeButton.ChargeButton
+[2022.03.24-08.47.41:483][ 61]LogEditorViewport: Clicking on Actor (LMB): BP_SnapObject_C (PowerCell3)
+[2022.03.24-08.48.06:372][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-08.48.06:399][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.03.24-08.48.06:421][233]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom01CDA49145E924E957AE85817A355A42.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.24-08.48.06:450][233]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.24-08.48.06:450][233]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.24-08.48.08:957][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-08.48.08:981][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.24-08.48.09:003][349]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom39D31CA64A9DF7D169B4F298E27D0DDC.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.24-08.48.09:033][349]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.24-08.48.09:033][349]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.24-08.48.20:373][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-08.48.20:373][893]LogHMD: Initializing OVRPlugin session
+[2022.03.24-08.48.20:545][893]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-08.48.20:546][893]PIE: New page: PIE session: EngineRoom (Mar 24, 2022, 12:48:20 AM)
+[2022.03.24-08.48.20:578][893]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-08.48.20:585][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006979s)
+[2022.03.24-08.48.20:586][893]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.24-08.48.20:586][893]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2022.03.24-08.48.20:586][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.008598s)
+[2022.03.24-08.48.20:610][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.03.24-08.48.20:611][893]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.24-08.48.20:611][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-08.48.20:611][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-08.48.20:611][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-08.48.20:611][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-08.48.20:611][893]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-08.48.20:611][893]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-08.48.20:611][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-08.48.20:611][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-08.48.20:611][893]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-08.48.20:611][893]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-08.48.20:611][893]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-08.48.20:611][893]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-08.48.20:621][893]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-08.48.20:621][893]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-08.48.20:629][893]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-08.48.20:629][893]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-08.48.20:639][893]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-08.48.20:639][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-08.48.20:639][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-08.48.20:639][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-08.48.20:639][893]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-08.48.20:639][893]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-08.48.20:640][893]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-08.48.20:642][893]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-08.48.20:642][893]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-08.48.20:642][893]LogInit: FAudioDevice initialized.
+[2022.03.24-08.48.20:642][893]LogAudio: Display: Audio Device (ID: 4) registered with world 'EngineRoom'.
+[2022.03.24-08.48.20:666][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.48.20:683][893]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-08.48.20:750][893]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-08.48.20:760][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.24-04.48.20
+[2022.03.24-08.48.20:761][893]LogWorld: Bringing up level for play took: 0.010240
+[2022.03.24-08.48.20:761][893]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.24-08.48.20:767][893]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-08.48.20:773][893]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.48.20:775][893]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.48.20:794][893]PIE: Server logged in
+[2022.03.24-08.48.20:809][893]PIE: Play in editor total start time 0.438 seconds.
+[2022.03.24-08.48.20:809][893]LogEngine: Changing dynamic resolution state.
+[2022.03.24-08.48.20:829][893]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-08.48.20:830][893]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-08.48.20:904][895]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-08.48.34:591][801]LogBlueprintUserMessages: [ButtonActor2] Hello
+[2022.03.24-08.48.34:591][801]LogBlueprintUserMessages: [ButtonActor2] power_cell
+[2022.03.24-08.48.34:592][801]LogBlueprintUserMessages: [ButtonActor2] charged
+[2022.03.24-08.48.36:418][919]LogBlueprintUserMessages: [ButtonActor2] Hello
+[2022.03.24-08.48.36:418][919]LogBlueprintUserMessages: [ButtonActor2] power_cell
+[2022.03.24-08.48.36:418][919]LogBlueprintUserMessages: [ButtonActor2] charged
+[2022.03.24-08.48.36:883][949]LogBlueprintUserMessages: [ButtonActor2] Hello
+[2022.03.24-08.48.36:883][949]LogBlueprintUserMessages: [ButtonActor2] power_cell
+[2022.03.24-08.48.36:883][949]LogBlueprintUserMessages: [ButtonActor2] charged
+[2022.03.24-08.48.37:258][973]LogBlueprintUserMessages: [ButtonActor2] Hello
+[2022.03.24-08.48.37:259][973]LogBlueprintUserMessages: [ButtonActor2] power_cell
+[2022.03.24-08.48.37:259][973]LogBlueprintUserMessages: [ButtonActor2] charged
+[2022.03.24-08.48.37:625][997]LogBlueprintUserMessages: [ButtonActor2] Hello
+[2022.03.24-08.48.37:625][997]LogBlueprintUserMessages: [ButtonActor2] power_cell
+[2022.03.24-08.48.37:625][997]LogBlueprintUserMessages: [ButtonActor2] charged
+[2022.03.24-08.48.37:965][ 19]LogBlueprintUserMessages: [ButtonActor2] Hello
+[2022.03.24-08.48.37:965][ 19]LogBlueprintUserMessages: [ButtonActor2] power_cell
+[2022.03.24-08.48.37:965][ 19]LogBlueprintUserMessages: [ButtonActor2] charged
+[2022.03.24-08.48.38:299][ 40]LogBlueprintUserMessages: [ButtonActor2] Hello
+[2022.03.24-08.48.38:299][ 40]LogBlueprintUserMessages: [ButtonActor2] power_cell
+[2022.03.24-08.48.38:299][ 40]LogBlueprintUserMessages: [ButtonActor2] charged
+[2022.03.24-08.48.38:694][ 66]LogBlueprintUserMessages: [ButtonActor2] Hello
+[2022.03.24-08.48.38:694][ 66]LogBlueprintUserMessages: [ButtonActor2] power_cell
+[2022.03.24-08.48.38:694][ 66]LogBlueprintUserMessages: [ButtonActor2] charged
+[2022.03.24-08.48.43:110][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.48.43:110][361]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-08.48.43:164][361]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-08.48.43:217][361]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-08.48.43:224][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-08.48.43:269][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-08.48.43:301][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-08.48.43:341][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-08.48.43:341][361]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-08.48.43:341][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-08.48.43:342][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-08.48.43:349][361]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-08.48.43:349][361]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.48.43:351][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.03.24-08.48.43:386][362]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.24-08.48.43:397][362]LogEngine: Changing dynamic resolution state.
+[2022.03.24-08.49.22:293][208]BlueprintLog: New page: Compile ChargeButton
+[2022.03.24-08.49.22:346][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.03.24-08.49.23:253][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Implementations/ChargeButton" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/ChargeButton.uasset" SILENT=true
+[2022.03.24-08.49.23:268][248]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/ChargeButton659F48E04F5BE47F09F5AC959F014B9C.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/ChargeButton.uasset'
+[2022.03.24-08.49.23:293][248]AssetCheck: New page: Asset Save: ChargeButton
+[2022.03.24-08.49.23:294][248]LogContentValidation: Display: Validating Blueprint /Game/Interactables/Implementations/ChargeButton.ChargeButton
+[2022.03.24-08.50.37:780][ 44]LogContentBrowser: Deferred new asset file creation: BP_SnapObject_Child
+[2022.03.24-08.50.37:831][ 44]LogContentBrowser: Creating deferred item: BP_SnapObject_Child
+[2022.03.24-08.50.47:313][497]LogContentBrowser: Attempting asset rename: BP_SnapObject_Child -> BP_Power_cell
+[2022.03.24-08.50.47:315][497]LogContentBrowser: End creating deferred item BP_SnapObject_Child
+[2022.03.24-08.50.50:519][647]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/BP_Power_cell.BP_Power_cell
+[2022.03.24-08.51.21:666][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_Power_cell" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset" SILENT=true
+[2022.03.24-08.51.21:676][ 11]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_Power_cell46B712734DF60AF5EA09FBA8F3011BF0.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset'
+[2022.03.24-08.51.21:703][ 11]AssetCheck: New page: Asset Save: BP_Power_cell
+[2022.03.24-08.51.21:703][ 11]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_Power_cell.BP_Power_cell
+[2022.03.24-08.51.22:748][ 57]BlueprintLog: New page: Compile BP_Power_cell
+[2022.03.24-08.51.22:840][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.03.24-08.51.23:522][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_Power_cell" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset" SILENT=true
+[2022.03.24-08.51.23:532][ 82]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_Power_cell39581FB34BD40DF6D429FAAF85DB1B50.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset'
+[2022.03.24-08.51.23:554][ 82]AssetCheck: New page: Asset Save: BP_Power_cell
+[2022.03.24-08.51.23:555][ 82]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_Power_cell.BP_Power_cell
+[2022.03.24-08.51.49:871][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/BP_SnapObject.BP_SnapObject
+[2022.03.24-08.52.25:181][942]BlueprintLog: New page: Compile BP_SnapObject
+[2022.03.24-08.52.25:289][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.03.24-08.52.26:078][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_SnapObject" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_SnapObject.uasset" SILENT=true
+[2022.03.24-08.52.26:116][976]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_SnapObjectEB17381445DE7F1BB756A088A01C2716.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_SnapObject.uasset'
+[2022.03.24-08.52.26:144][976]AssetCheck: New page: Asset Save: BP_SnapObject
+[2022.03.24-08.52.26:144][976]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_SnapObject.BP_SnapObject
+[2022.03.24-08.52.47:123][954]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.03.24-08.52.47:269][954]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.146 s
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: 
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: Ensure condition failed: !FBlueprintCompileReinstancer::IsReinstClass(OwnerClass) [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1763]
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: OwnerClass should not be 'REINST_'! This means that a REINST class was parented to another REINST class, causing unwanted recursion!
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: Stack: 
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ff9f2ee48c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ff9f26fbd78 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa0ad8e3bd UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa0ad8e501 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa0ad64627 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa0ad0c02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa0ad0bd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ff9f2677752 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ff9efc95472 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa0ada5c77 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa0ad90542 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa0ad560b7 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa1926a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa1928280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa190d421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa1914e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa19137097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa19129b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa8d27c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa8d2692b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.24-08.52.47:269][954]LogOutputDevice: Error: [Callstack] 0x00007ffa8d27e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ffa8d264410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ffab4941c4c USER32.dll!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ffab4940ea6 USER32.dll!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ffa8d27fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ff720a97621 UE4Editor.exe!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ff720ab0fcc UE4Editor.exe!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ff720ab10ba UE4Editor.exe!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ff720ab40dd UE4Editor.exe!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ff720ac5984 UE4Editor.exe!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ff720ac853a UE4Editor.exe!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ffab57454e0 KERNEL32.DLL!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: [Callstack] 0x00007ffab64c485b ntdll.dll!UnknownFunction []
+[2022.03.24-08.52.47:270][954]LogOutputDevice: Error: 
+[2022.03.24-08.52.47:285][954]LogStats:                SubmitErrorReport -  0.000 s
+[2022.03.24-08.52.49:272][954]LogStats:                    SendNewReport -  1.987 s
+[2022.03.24-08.52.49:272][954]LogStats:             FDebug::EnsureFailed -  2.149 s
+[2022.03.24-08.52.49:308][954]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.24-08.52.49:330][954]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-08.52.49:330][954]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-08.52.49:330][954]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.24-08.52.49:330][954]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.24-08.52.49:330][954]LogAudioMixer: Display: 4: BackLeft
+[2022.03.24-08.52.49:330][954]LogAudioMixer: Display: 5: BackRight
+[2022.03.24-08.52.49:330][954]LogAudioMixer: Display: 6: SideLeft
+[2022.03.24-08.52.49:330][954]LogAudioMixer: Display: 7: SideRight
+[2022.03.24-08.52.55:415][240]LogSlate: Took 0.005211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.24-08.52.59:046][415]BlueprintLog: New page: Compile BP_SnapObject
+[2022.03.24-08.52.59:142][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2022.03.24-08.53.00:075][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_SnapObject" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_SnapObject.uasset" SILENT=true
+[2022.03.24-08.53.00:109][455]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_SnapObject143EAE024BBCA51686DC2088B003D999.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_SnapObject.uasset'
+[2022.03.24-08.53.00:138][455]AssetCheck: New page: Asset Save: BP_SnapObject
+[2022.03.24-08.53.00:138][455]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_SnapObject.BP_SnapObject
+[2022.03.24-08.53.03:081][599]BlueprintLog: New page: Compile BP_Power_cell
+[2022.03.24-08.53.03:150][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.03.24-08.53.04:167][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_Power_cell" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset" SILENT=true
+[2022.03.24-08.53.04:178][648]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_Power_cell0980E14049D46E68BDC0D294DAF8F1C4.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset'
+[2022.03.24-08.53.04:205][648]AssetCheck: New page: Asset Save: BP_Power_cell
+[2022.03.24-08.53.04:206][648]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_Power_cell.BP_Power_cell
+[2022.03.24-08.56.24:793][240]BlueprintLog: New page: Compile BP_Power_cell
+[2022.03.24-08.56.24:864][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.03.24-08.56.25:690][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_Power_cell" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset" SILENT=true
+[2022.03.24-08.56.25:710][275]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_Power_cell355C433C4FC0D6EA16FA65BF2C8AA15E.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset'
+[2022.03.24-08.56.25:737][275]AssetCheck: New page: Asset Save: BP_Power_cell
+[2022.03.24-08.56.25:737][275]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_Power_cell.BP_Power_cell
+[2022.03.24-08.57.18:510][798]BlueprintLog: New page: Compile ChargeButton
+[2022.03.24-08.57.18:582][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.03.24-08.57.19:249][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Implementations/ChargeButton" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/ChargeButton.uasset" SILENT=true
+[2022.03.24-08.57.19:266][825]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/ChargeButton0E1F1AF74130A52243AEC8A2FDC47B7B.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/ChargeButton.uasset'
+[2022.03.24-08.57.19:288][825]AssetCheck: New page: Asset Save: ChargeButton
+[2022.03.24-08.57.19:288][825]LogContentValidation: Display: Validating Blueprint /Game/Interactables/Implementations/ChargeButton.ChargeButton
+[2022.03.24-08.57.28:742][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Implementations/ChargeButton" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/ChargeButton.uasset" SILENT=true
+[2022.03.24-08.57.28:757][292]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/ChargeButton207738084A1AAAA5BA91AAAF5A9E4AFD.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/ChargeButton.uasset'
+[2022.03.24-08.57.28:783][292]AssetCheck: New page: Asset Save: ChargeButton
+[2022.03.24-08.57.28:783][292]LogContentValidation: Display: Validating Blueprint /Game/Interactables/Implementations/ChargeButton.ChargeButton
+[2022.03.24-08.57.58:347][678]BlueprintLog: New page: Compile BP_Power_cell
+[2022.03.24-08.57.58:415][678]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.03.24-08.57.59:535][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_Power_cell" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset" SILENT=true
+[2022.03.24-08.57.59:552][728]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_Power_cell7B01BA664DC5E79338E612A00E067412.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset'
+[2022.03.24-08.57.59:574][728]AssetCheck: New page: Asset Save: BP_Power_cell
+[2022.03.24-08.57.59:574][728]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_Power_cell.BP_Power_cell
+[2022.03.24-08.58.18:796][665]EditorErrors: New page: Actor Reattachment
+[2022.03.24-08.58.36:813][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-08.58.36:860][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.03.24-08.58.36:885][551]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoomDE4EC0454259F082C8126399C73F9EE8.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.24-08.58.36:915][551]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.24-08.58.36:915][551]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.24-08.58.41:898][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-08.58.41:898][786]LogHMD: Initializing OVRPlugin session
+[2022.03.24-08.58.42:095][786]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-08.58.42:095][786]PIE: New page: PIE session: EngineRoom (Mar 24, 2022, 12:58:42 AM)
+[2022.03.24-08.58.42:095][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-08.58.42:102][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006943s)
+[2022.03.24-08.58.42:102][786]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.24-08.58.42:103][786]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2022.03.24-08.58.42:103][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.008306s)
+[2022.03.24-08.58.42:141][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.03.24-08.58.42:144][786]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.24-08.58.42:144][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-08.58.42:144][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-08.58.42:144][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-08.58.42:144][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-08.58.42:144][786]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-08.58.42:144][786]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-08.58.42:144][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-08.58.42:144][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-08.58.42:144][786]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-08.58.42:144][786]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-08.58.42:144][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-08.58.42:144][786]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-08.58.42:154][786]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-08.58.42:154][786]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-08.58.42:162][786]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-08.58.42:162][786]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-08.58.42:170][786]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-08.58.42:171][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-08.58.42:171][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-08.58.42:171][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-08.58.42:172][786]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-08.58.42:172][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-08.58.42:172][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-08.58.42:173][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-08.58.42:173][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-08.58.42:173][786]LogInit: FAudioDevice initialized.
+[2022.03.24-08.58.42:174][786]LogAudio: Display: Audio Device (ID: 5) registered with world 'EngineRoom'.
+[2022.03.24-08.58.42:194][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.58.42:215][786]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-08.58.42:279][786]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-08.58.42:285][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.24-04.58.42
+[2022.03.24-08.58.42:289][786]LogWorld: Bringing up level for play took: 0.008605
+[2022.03.24-08.58.42:291][786]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.03.24-08.58.42:299][786]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-08.58.42:302][786]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.58.42:308][786]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.58.42:327][786]PIE: Server logged in
+[2022.03.24-08.58.42:336][786]PIE: Play in editor total start time 0.446 seconds.
+[2022.03.24-08.58.42:338][786]LogEngine: Changing dynamic resolution state.
+[2022.03.24-08.58.42:377][786]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-08.58.42:378][786]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-08.58.42:462][788]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-08.58.56:735][732]LogBlueprintUserMessages: [PowerCell3] Called PowerCell BP
+[2022.03.24-08.58.59:389][903]LogBlueprintUserMessages: [PowerCell3] Called PowerCell BP
+[2022.03.24-08.59.00:005][941]LogBlueprintUserMessages: [PowerCell3] Called PowerCell BP
+[2022.03.24-08.59.00:565][975]LogBlueprintUserMessages: [PowerCell3] Called PowerCell BP
+[2022.03.24-08.59.01:083][  9]LogBlueprintUserMessages: [PowerCell3] Called PowerCell BP
+[2022.03.24-08.59.05:236][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-08.59.05:236][279]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-08.59.05:294][279]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-08.59.05:358][279]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-08.59.05:360][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-08.59.05:406][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-08.59.05:443][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-08.59.05:498][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-08.59.05:498][279]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-08.59.05:498][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-08.59.05:500][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-08.59.05:506][279]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-08.59.05:506][279]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-08.59.05:510][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.03.24-08.59.05:550][280]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.24-08.59.05:563][280]LogEngine: Changing dynamic resolution state.
+[2022.03.24-08.59.52:807][378]BlueprintLog: New page: Compile BP_Power_cell
+[2022.03.24-08.59.52:881][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.03.24-08.59.54:104][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_Power_cell" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset" SILENT=true
+[2022.03.24-08.59.54:124][432]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_Power_cell8A64DB0244BCB5DCABFA38B78C07BB0D.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset'
+[2022.03.24-08.59.54:157][432]AssetCheck: New page: Asset Save: BP_Power_cell
+[2022.03.24-08.59.54:158][432]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_Power_cell.BP_Power_cell
+[2022.03.24-09.00.07:168][ 52]BlueprintLog: New page: Compile BP_Power_cell
+[2022.03.24-09.00.07:241][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.03.24-09.00.07:820][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_Power_cell" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset" SILENT=true
+[2022.03.24-09.00.07:837][ 74]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_Power_cellCB2A990F49CB34A41B9DD9B8FD510D36.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset'
+[2022.03.24-09.00.07:863][ 74]AssetCheck: New page: Asset Save: BP_Power_cell
+[2022.03.24-09.00.07:863][ 74]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_Power_cell.BP_Power_cell
+[2022.03.24-09.00.20:698][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-09.00.20:698][657]LogHMD: Initializing OVRPlugin session
+[2022.03.24-09.00.20:878][657]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-09.00.20:878][657]PIE: New page: PIE session: EngineRoom (Mar 24, 2022, 1:00:20 AM)
+[2022.03.24-09.00.20:879][657]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-09.00.20:885][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006709s)
+[2022.03.24-09.00.20:885][657]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.24-09.00.20:886][657]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2022.03.24-09.00.20:886][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.008076s)
+[2022.03.24-09.00.20:924][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.03.24-09.00.20:925][657]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.24-09.00.20:925][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-09.00.20:925][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-09.00.20:925][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-09.00.20:926][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-09.00.20:926][657]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-09.00.20:926][657]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-09.00.20:926][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-09.00.20:926][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-09.00.20:926][657]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-09.00.20:926][657]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-09.00.20:926][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-09.00.20:926][657]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-09.00.20:938][657]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.00.20:938][657]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.00.20:949][657]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.00.20:949][657]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.00.20:956][657]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-09.00.20:957][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-09.00.20:957][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-09.00.20:957][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-09.00.20:957][657]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-09.00.20:957][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-09.00.20:957][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-09.00.20:958][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-09.00.20:959][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-09.00.20:959][657]LogInit: FAudioDevice initialized.
+[2022.03.24-09.00.20:959][657]LogAudio: Display: Audio Device (ID: 6) registered with world 'EngineRoom'.
+[2022.03.24-09.00.20:980][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.00.20:991][657]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-09.00.21:062][657]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-09.00.21:079][657]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.24-05.00.21
+[2022.03.24-09.00.21:080][657]LogWorld: Bringing up level for play took: 0.014045
+[2022.03.24-09.00.21:080][657]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.03.24-09.00.21:083][657]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-09.00.21:085][657]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.00.21:088][657]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.00.21:109][657]PIE: Server logged in
+[2022.03.24-09.00.21:120][657]PIE: Play in editor total start time 0.424 seconds.
+[2022.03.24-09.00.21:121][657]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.00.21:140][657]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-09.00.21:140][657]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-09.00.21:258][659]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-09.00.40:297][893]LogBlueprintUserMessages: [PowerCell3] 1
+[2022.03.24-09.00.40:919][932]LogBlueprintUserMessages: [PowerCell3] 1
+[2022.03.24-09.00.42:088][  8]LogBlueprintUserMessages: [PowerCell3] 1
+[2022.03.24-09.00.47:104][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.00.47:104][337]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-09.00.47:177][337]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-09.00.47:227][337]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.00.47:229][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.00.47:302][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-09.00.47:344][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.00.47:397][337]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-09.00.47:398][337]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-09.00.47:398][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.00.47:399][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.00.47:408][337]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-09.00.47:408][337]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.00.47:412][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.03.24-09.00.47:452][338]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.03.24-09.00.47:466][338]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.02.06:380][982]BlueprintLog: New page: Compile BP_Power_cell
+[2022.03.24-09.02.06:498][982]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2022.03.24-09.02.08:808][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_Power_cell" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset" SILENT=true
+[2022.03.24-09.02.08:825][ 67]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_Power_cell4EDC6B9C47E92C6EC05C9E9770EABCB9.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset'
+[2022.03.24-09.02.08:854][ 67]AssetCheck: New page: Asset Save: BP_Power_cell
+[2022.03.24-09.02.08:855][ 67]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_Power_cell.BP_Power_cell
+[2022.03.24-09.02.44:317][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_Power_cell" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset" SILENT=true
+[2022.03.24-09.02.44:331][746]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/BP_Power_cell01E0DF404818F2A0448156A60A010673.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/BP_Power_cell.uasset'
+[2022.03.24-09.02.44:362][746]AssetCheck: New page: Asset Save: BP_Power_cell
+[2022.03.24-09.02.44:363][746]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_Power_cell.BP_Power_cell
+[2022.03.24-09.02.49:969][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-09.02.50:010][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.03.24-09.02.50:035][  7]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom73A8314F46CC1B56766FDAB85519AA9B.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.24-09.02.50:073][  7]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.24-09.02.50:073][  7]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.24-09.02.54:531][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-09.02.54:531][214]LogHMD: Initializing OVRPlugin session
+[2022.03.24-09.02.54:710][214]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-09.02.54:710][214]PIE: New page: PIE session: EngineRoom (Mar 24, 2022, 1:02:54 AM)
+[2022.03.24-09.02.54:711][214]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-09.02.54:718][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006862s)
+[2022.03.24-09.02.54:718][214]LogAIModule: Creating AISystem for world EngineRoom
+[2022.03.24-09.02.54:718][214]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2022.03.24-09.02.54:718][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EngineRoom.EngineRoom to /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom (0.008050s)
+[2022.03.24-09.02.54:755][214]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.03.24-09.02.54:755][214]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.24-09.02.54:755][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-09.02.54:755][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-09.02.54:755][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-09.02.54:755][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-09.02.54:755][214]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-09.02.54:755][214]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-09.02.54:755][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-09.02.54:755][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-09.02.54:756][214]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-09.02.54:756][214]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-09.02.54:756][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-09.02.54:756][214]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-09.02.54:764][214]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.02.54:764][214]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.02.54:773][214]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.02.54:773][214]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.02.54:779][214]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-09.02.54:779][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-09.02.54:779][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-09.02.54:779][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-09.02.54:780][214]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-09.02.54:780][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-09.02.54:780][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-09.02.54:781][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-09.02.54:781][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-09.02.54:781][214]LogInit: FAudioDevice initialized.
+[2022.03.24-09.02.54:781][214]LogAudio: Display: Audio Device (ID: 7) registered with world 'EngineRoom'.
+[2022.03.24-09.02.54:800][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.02.54:820][214]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-09.02.54:901][214]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-09.02.54:915][214]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EngineRoom.EngineRoom up for play (max tick rate 0) at 2022.03.24-05.02.54
+[2022.03.24-09.02.54:916][214]LogWorld: Bringing up level for play took: 0.012293
+[2022.03.24-09.02.54:916][214]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.24-09.02.54:920][214]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-09.02.54:929][214]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.02.54:933][214]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.02.54:957][214]PIE: Server logged in
+[2022.03.24-09.02.54:968][214]PIE: Play in editor total start time 0.44 seconds.
+[2022.03.24-09.02.54:969][214]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.02.54:990][214]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-09.02.54:990][214]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-09.02.55:077][216]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-09.03.11:890][224]LogBlueprintUserMessages: [PowerCell3] 1
+[2022.03.24-09.03.11:891][224]LogBlueprintUserMessages: [PowerCell3] Hello
+[2022.03.24-09.03.40:972][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.03.40:972][131]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EngineRoom
+[2022.03.24-09.03.41:046][131]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-09.03.41:098][131]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.03.41:101][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.03.41:169][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-09.03.41:209][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.03.41:256][131]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-09.03.41:256][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.03.41:257][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.03.41:265][131]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-09.03.41:265][131]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.03.41:269][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.03.24-09.03.41:309][132]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.24-09.03.41:321][132]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.05.58:850][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EngineRoom" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-09.05.58:886][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.03.24-09.05.58:910][324]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/EngineRoom180862BB471487E1B8E277AED92515D6.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/EngineRoom.umap'
+[2022.03.24-09.05.58:989][324]AssetCheck: New page: Asset Save: EngineRoom
+[2022.03.24-09.05.58:989][324]LogContentValidation: Display: Validating World /Game/Maps/EngineRoom.EngineRoom
+[2022.03.24-09.06.01:038][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.03.24-09.06.01:089][421]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Cockpit.Cockpit
+[2022.03.24-09.06.01:090][421]Cmd: MAP LOAD FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.24-09.06.01:091][421]LightingResults: New page: Lighting Build
+[2022.03.24-09.06.01:091][421]LoadErrors: New page: Loading map: Cockpit.umap
+[2022.03.24-09.06.01:093][421]LogWorld: UWorld::CleanupWorld for EngineRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.06.01:093][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.06.01:093][421]MapCheck: New page: Map Check
+[2022.03.24-09.06.01:093][421]LightingResults: New page: Lighting Build
+[2022.03.24-09.06.01:129][421]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-09.06.01:141][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.03.24-09.06.01:142][421]LogAudio: Display: Audio Device (ID: 1) registered with world 'Cockpit'.
+[2022.03.24-09.06.01:162][421]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.24-09.06.01:162][421]LogAIModule: Creating AISystem for world Cockpit
+[2022.03.24-09.06.01:203][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.03.24-09.06.01:211][421]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.24-09.06.01:211][421]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2022.03.24-09.06.01:211][421]LogFileHelpers: Loading map 'Cockpit' took 0.122
+[2022.03.24-09.06.10:886][875]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave Dialogue1...
+[2022.03.24-09.06.11:144][875]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2455552 while cooking SoundWave /Game/Sounds/Dialogue1.Dialogue1.
+[2022.03.24-09.06.20:316][291]LogContentBrowser: Deferred new asset file creation: Dialogue1_Cue
+[2022.03.24-09.06.20:335][291]LogContentBrowser: Creating deferred item: Dialogue1_Cue
+[2022.03.24-09.06.21:740][355]LogContentBrowser: Attempting asset rename: Dialogue1_Cue -> Dialogue1_Cue
+[2022.03.24-09.06.21:742][355]LogContentBrowser: End creating deferred item Dialogue1_Cue
+[2022.03.24-09.07.19:644][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-09.07.19:685][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.03.24-09.07.19:700][ 70]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/CockpitA5ABDF634315B9CFE65B6C892F81DFDD.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap'
+[2022.03.24-09.07.19:711][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit_BuiltData" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset" SILENT=true
+[2022.03.24-09.07.19:743][ 70]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/Cockpit_BuiltData0DC9B0074E16EE927CCDAE82FF128B4C.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset'
+[2022.03.24-09.07.19:765][ 70]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.24-09.07.19:765][ 70]LogContentValidation: Display: Validating World /Game/Maps/Cockpit.Cockpit
+[2022.03.24-09.07.19:765][ 70]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Cockpit_BuiltData.Cockpit_BuiltData
+[2022.03.24-09.07.24:731][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-09.07.24:731][308]LogHMD: Initializing OVRPlugin session
+[2022.03.24-09.07.24:891][308]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-09.07.24:891][308]PIE: New page: PIE session: Cockpit (Mar 24, 2022, 1:07:24 AM)
+[2022.03.24-09.07.24:892][308]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.07.24:896][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003963s)
+[2022.03.24-09.07.24:897][308]LogAIModule: Creating AISystem for world Cockpit
+[2022.03.24-09.07.24:897][308]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2022.03.24-09.07.24:897][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cockpit.Cockpit to /Game/Maps/UEDPIE_0_Cockpit.Cockpit (0.005066s)
+[2022.03.24-09.07.24:930][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.03.24-09.07.24:931][308]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.24-09.07.24:931][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-09.07.24:931][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-09.07.24:931][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-09.07.24:931][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-09.07.24:931][308]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-09.07.24:931][308]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-09.07.24:931][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-09.07.24:931][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-09.07.24:932][308]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-09.07.24:932][308]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-09.07.24:932][308]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-09.07.24:932][308]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-09.07.24:940][308]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.07.24:940][308]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.07.24:948][308]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.07.24:948][308]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.07.24:956][308]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-09.07.24:956][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-09.07.24:956][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-09.07.24:956][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-09.07.24:957][308]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-09.07.24:957][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-09.07.24:957][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-09.07.24:958][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-09.07.24:958][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-09.07.24:958][308]LogInit: FAudioDevice initialized.
+[2022.03.24-09.07.24:958][308]LogAudio: Display: Audio Device (ID: 8) registered with world 'Cockpit'.
+[2022.03.24-09.07.24:975][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.07.24:993][308]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-09.07.25:069][308]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-09.07.25:082][308]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cockpit.Cockpit up for play (max tick rate 0) at 2022.03.24-05.07.25
+[2022.03.24-09.07.25:083][308]LogWorld: Bringing up level for play took: 0.009519
+[2022.03.24-09.07.25:083][308]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.24-09.07.25:092][308]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-09.07.25:098][308]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.07.25:104][308]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.07.25:132][308]PIE: Server logged in
+[2022.03.24-09.07.25:139][308]PIE: Play in editor total start time 0.408 seconds.
+[2022.03.24-09.07.25:143][308]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.07.25:157][308]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-09.07.25:158][308]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-09.07.25:257][310]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-09.07.47:737][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.07.47:737][679]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.07.47:803][679]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-09.07.47:877][679]LogWorld: UWorld::CleanupWorld for Cockpit, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.07.47:890][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.07.47:923][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-09.07.48:001][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.07.48:041][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-09.07.48:041][679]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-09.07.48:041][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.07.48:043][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.07.48:051][679]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-09.07.48:051][679]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.07.48:056][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.03.24-09.07.48:100][680]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.24-09.07.48:111][680]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.07.57:649][141]LogEditorViewport: Clicking on Actor (LMB): LeverToLevel_C (LeverToLevel)
+[2022.03.24-09.08.26:590][941]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.24-09.08.27:678][941]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.24-09.08.27:687][941]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.24-09.08.27:707][941]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.24-09.08.34:944][293]LogContentBrowser: Attempting asset rename: NewBlueprint -> AmbientSoundCue
+[2022.03.24-09.08.34:953][293]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.24-09.08.41:239][591]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/AmbientSoundCue.AmbientSoundCue
+[2022.03.24-09.09.15:495][198]BlueprintLog: New page: Compile AmbientSoundCue
+[2022.03.24-09.09.15:577][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.03.24-09.09.16:384][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/AmbientSoundCue" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset" SILENT=true
+[2022.03.24-09.09.16:389][230]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/AmbientSoundCue74196C3847EF6F4908B626BEEEAF692A.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset'
+[2022.03.24-09.09.16:414][230]AssetCheck: New page: Asset Save: AmbientSoundCue
+[2022.03.24-09.09.16:414][230]LogContentValidation: Display: Validating Blueprint /Game/Interactables/AmbientSoundCue.AmbientSoundCue
+[2022.03.24-09.10.42:727][401]LogContentBrowser: Attempting asset rename: Dialogue1 -> Dialogue1
+[2022.03.24-09.10.49:990][688]BlueprintLog: New page: Compile AmbientSoundCue
+[2022.03.24-09.10.50:066][688]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.03.24-09.10.50:878][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/AmbientSoundCue" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset" SILENT=true
+[2022.03.24-09.10.50:887][721]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/AmbientSoundCue157D20DD45F3C2125AA5C89A1D936C2A.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset'
+[2022.03.24-09.10.50:912][721]AssetCheck: New page: Asset Save: AmbientSoundCue
+[2022.03.24-09.10.50:912][721]LogContentValidation: Display: Validating Blueprint /Game/Interactables/AmbientSoundCue.AmbientSoundCue
+[2022.03.24-09.11.50:069][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/Implementations/HoodButton.HoodButton
+[2022.03.24-09.13.13:123][570]BlueprintLog: New page: Compile AmbientSoundCue
+[2022.03.24-09.13.13:198][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.03.24-09.13.14:257][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/AmbientSoundCue" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset" SILENT=true
+[2022.03.24-09.13.14:265][620]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/AmbientSoundCueF0F1EE9C48C91E7B9BBE9A898407D3E1.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset'
+[2022.03.24-09.13.14:290][620]AssetCheck: New page: Asset Save: AmbientSoundCue
+[2022.03.24-09.13.14:290][620]LogContentValidation: Display: Validating Blueprint /Game/Interactables/AmbientSoundCue.AmbientSoundCue
+[2022.03.24-09.13.19:840][882]LogEditorViewport: Clicking on Actor (LMB): Keyboard_C (Keyboard)
+[2022.03.24-09.14.07:002][124]BlueprintLog: New page: Compile AmbientSoundCue
+[2022.03.24-09.14.07:089][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.03.24-09.14.07:833][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/AmbientSoundCue" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset" SILENT=true
+[2022.03.24-09.14.07:840][158]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/AmbientSoundCue19CDC5A04AC8E1CFC486B488E0C044FF.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset'
+[2022.03.24-09.14.07:865][158]AssetCheck: New page: Asset Save: AmbientSoundCue
+[2022.03.24-09.14.07:865][158]LogContentValidation: Display: Validating Blueprint /Game/Interactables/AmbientSoundCue.AmbientSoundCue
+[2022.03.24-09.14.15:770][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.24-09.14.15:814][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.03.24-09.14.15:829][535]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/Cockpit7560FF2E4A8B45F7039B80AABEFB2F3D.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit.umap'
+[2022.03.24-09.14.15:838][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cockpit_BuiltData" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset" SILENT=true
+[2022.03.24-09.14.15:843][535]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/Cockpit_BuiltDataE30516924ADCC24F4A0227B644DF932F.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Maps/Cockpit_BuiltData.uasset'
+[2022.03.24-09.14.15:862][535]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.24-09.14.15:862][535]LogContentValidation: Display: Validating World /Game/Maps/Cockpit.Cockpit
+[2022.03.24-09.14.15:862][535]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Cockpit_BuiltData.Cockpit_BuiltData
+[2022.03.24-09.14.20:114][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-09.14.20:114][735]LogHMD: Initializing OVRPlugin session
+[2022.03.24-09.14.20:292][735]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-09.14.20:292][735]PIE: New page: PIE session: Cockpit (Mar 24, 2022, 1:14:20 AM)
+[2022.03.24-09.14.20:293][735]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.14.20:297][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004490s)
+[2022.03.24-09.14.20:298][735]LogAIModule: Creating AISystem for world Cockpit
+[2022.03.24-09.14.20:298][735]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2022.03.24-09.14.20:298][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cockpit.Cockpit to /Game/Maps/UEDPIE_0_Cockpit.Cockpit (0.005788s)
+[2022.03.24-09.14.20:340][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.03.24-09.14.20:341][735]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.24-09.14.20:341][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-09.14.20:341][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-09.14.20:341][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-09.14.20:341][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-09.14.20:341][735]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-09.14.20:341][735]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-09.14.20:341][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-09.14.20:341][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-09.14.20:341][735]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-09.14.20:341][735]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-09.14.20:341][735]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-09.14.20:341][735]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-09.14.20:350][735]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.14.20:350][735]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.14.20:359][735]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.14.20:359][735]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.14.20:367][735]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-09.14.20:367][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-09.14.20:367][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-09.14.20:367][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-09.14.20:367][735]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-09.14.20:367][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-09.14.20:368][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-09.14.20:369][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-09.14.20:369][735]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-09.14.20:369][735]LogInit: FAudioDevice initialized.
+[2022.03.24-09.14.20:370][735]LogAudio: Display: Audio Device (ID: 9) registered with world 'Cockpit'.
+[2022.03.24-09.14.20:387][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.14.20:402][735]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-09.14.20:464][735]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-09.14.20:467][735]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cockpit.Cockpit up for play (max tick rate 0) at 2022.03.24-05.14.20
+[2022.03.24-09.14.20:468][735]LogWorld: Bringing up level for play took: 0.003229
+[2022.03.24-09.14.20:468][735]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.24-09.14.20:471][735]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-09.14.20:473][735]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.14.20:474][735]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.14.20:811][735]PIE: Server logged in
+[2022.03.24-09.14.20:814][735]PIE: Play in editor total start time 0.705 seconds.
+[2022.03.24-09.14.20:814][735]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.14.20:825][735]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-09.14.20:825][735]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-09.14.20:866][737]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-09.14.33:378][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.14.33:378][443]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.14.33:457][443]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-09.14.33:519][443]LogWorld: UWorld::CleanupWorld for Cockpit, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.14.33:522][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.14.33:542][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-09.14.33:572][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.14.33:656][443]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-09.14.33:656][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.14.33:658][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.14.33:663][443]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-09.14.33:663][443]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.14.33:668][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.03.24-09.14.33:704][444]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.24-09.14.33:716][444]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.15.25:206][166]LogEditorTransaction: Undo Delete current selection
+[2022.03.24-09.16.00:616][469]BlueprintLog: New page: Compile AmbientSoundCue
+[2022.03.24-09.16.00:697][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.03.24-09.16.01:353][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/AmbientSoundCue" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset" SILENT=true
+[2022.03.24-09.16.01:360][498]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/AmbientSoundCue6E0C46494A842BF3900636A4351D989F.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset'
+[2022.03.24-09.16.01:440][498]AssetCheck: New page: Asset Save: AmbientSoundCue
+[2022.03.24-09.16.01:440][498]LogContentValidation: Display: Validating Blueprint /Game/Interactables/AmbientSoundCue.AmbientSoundCue
+[2022.03.24-09.17.02:416][362]BlueprintLog: New page: Compile AmbientSoundCue
+[2022.03.24-09.17.02:496][362]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.03.24-09.17.03:585][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/AmbientSoundCue" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset" SILENT=true
+[2022.03.24-09.17.03:596][410]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/AmbientSoundCueF6F6E063448406DF074E78A2EB16E780.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset'
+[2022.03.24-09.17.03:629][410]AssetCheck: New page: Asset Save: AmbientSoundCue
+[2022.03.24-09.17.03:629][410]LogContentValidation: Display: Validating Blueprint /Game/Interactables/AmbientSoundCue.AmbientSoundCue
+[2022.03.24-09.17.09:167][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-09.17.09:167][670]LogHMD: Initializing OVRPlugin session
+[2022.03.24-09.17.09:420][670]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-09.17.09:420][670]PIE: New page: PIE session: Cockpit (Mar 24, 2022, 1:17:09 AM)
+[2022.03.24-09.17.09:420][670]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.17.09:425][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004617s)
+[2022.03.24-09.17.09:426][670]LogAIModule: Creating AISystem for world Cockpit
+[2022.03.24-09.17.09:426][670]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2022.03.24-09.17.09:426][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cockpit.Cockpit to /Game/Maps/UEDPIE_0_Cockpit.Cockpit (0.005934s)
+[2022.03.24-09.17.09:466][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.03.24-09.17.09:467][670]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.24-09.17.09:467][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-09.17.09:467][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-09.17.09:467][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-09.17.09:467][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-09.17.09:467][670]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-09.17.09:467][670]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-09.17.09:467][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-09.17.09:467][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-09.17.09:468][670]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-09.17.09:468][670]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-09.17.09:468][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-09.17.09:468][670]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-09.17.09:476][670]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.17.09:476][670]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.17.09:484][670]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.17.09:485][670]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.17.09:492][670]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-09.17.09:492][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-09.17.09:492][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-09.17.09:492][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-09.17.09:493][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-09.17.09:493][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-09.17.09:493][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-09.17.09:494][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-09.17.09:494][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-09.17.09:494][670]LogInit: FAudioDevice initialized.
+[2022.03.24-09.17.09:494][670]LogAudio: Display: Audio Device (ID: 10) registered with world 'Cockpit'.
+[2022.03.24-09.17.09:510][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.17.09:519][670]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-09.17.09:596][670]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-09.17.09:602][670]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cockpit.Cockpit up for play (max tick rate 0) at 2022.03.24-05.17.09
+[2022.03.24-09.17.09:604][670]LogWorld: Bringing up level for play took: 0.006192
+[2022.03.24-09.17.09:606][670]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.03.24-09.17.09:613][670]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-09.17.09:618][670]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.17.09:625][670]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.17.09:649][670]PIE: Server logged in
+[2022.03.24-09.17.09:653][670]PIE: Play in editor total start time 0.49 seconds.
+[2022.03.24-09.17.09:657][670]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.17.09:678][670]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-09.17.09:678][670]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-09.17.09:751][672]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-09.17.21:161][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.17.21:161][249]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.17.21:229][249]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-09.17.21:306][249]LogWorld: UWorld::CleanupWorld for Cockpit, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.17.21:317][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.17.21:371][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-09.17.21:407][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.17.21:461][249]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-09.17.21:461][249]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-09.17.21:461][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.17.21:463][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.17.21:471][249]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-09.17.21:471][249]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.17.21:475][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.03.24-09.17.21:509][250]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.24-09.17.21:522][250]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.17.22:058][253]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.24-09.17.38:807][718]BlueprintLog: New page: Compile AmbientSoundCue
+[2022.03.24-09.17.38:887][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.03.24-09.17.39:720][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/AmbientSoundCue" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset" SILENT=true
+[2022.03.24-09.17.39:732][753]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/AmbientSoundCue8DF271EC4E265D622474D0985BED5CC3.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset'
+[2022.03.24-09.17.39:764][753]AssetCheck: New page: Asset Save: AmbientSoundCue
+[2022.03.24-09.17.39:764][753]LogContentValidation: Display: Validating Blueprint /Game/Interactables/AmbientSoundCue.AmbientSoundCue
+[2022.03.24-09.17.46:194][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-09.17.46:194][ 53]LogHMD: Initializing OVRPlugin session
+[2022.03.24-09.17.46:369][ 53]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-09.17.46:369][ 53]PIE: New page: PIE session: Cockpit (Mar 24, 2022, 1:17:46 AM)
+[2022.03.24-09.17.46:370][ 53]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.17.46:376][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005382s)
+[2022.03.24-09.17.46:377][ 53]LogAIModule: Creating AISystem for world Cockpit
+[2022.03.24-09.17.46:377][ 53]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2022.03.24-09.17.46:377][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cockpit.Cockpit to /Game/Maps/UEDPIE_0_Cockpit.Cockpit (0.007052s)
+[2022.03.24-09.17.46:421][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.03.24-09.17.46:422][ 53]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.03.24-09.17.46:422][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-09.17.46:422][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-09.17.46:422][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-09.17.46:422][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-09.17.46:422][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-09.17.46:422][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-09.17.46:422][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-09.17.46:422][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-09.17.46:422][ 53]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-09.17.46:422][ 53]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-09.17.46:422][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-09.17.46:422][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-09.17.46:431][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.17.46:431][ 53]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.17.46:439][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.17.46:439][ 53]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.17.46:446][ 53]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-09.17.46:446][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-09.17.46:447][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-09.17.46:447][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-09.17.46:447][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-09.17.46:447][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-09.17.46:447][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-09.17.46:448][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-09.17.46:449][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-09.17.46:449][ 53]LogInit: FAudioDevice initialized.
+[2022.03.24-09.17.46:449][ 53]LogAudio: Display: Audio Device (ID: 11) registered with world 'Cockpit'.
+[2022.03.24-09.17.46:465][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.17.46:476][ 53]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-09.17.46:554][ 53]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-09.17.46:559][ 53]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cockpit.Cockpit up for play (max tick rate 0) at 2022.03.24-05.17.46
+[2022.03.24-09.17.46:559][ 53]LogWorld: Bringing up level for play took: 0.003582
+[2022.03.24-09.17.46:559][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.24-09.17.46:568][ 53]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-09.17.46:570][ 53]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.17.46:579][ 53]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.17.46:602][ 53]PIE: Server logged in
+[2022.03.24-09.17.46:614][ 53]PIE: Play in editor total start time 0.423 seconds.
+[2022.03.24-09.17.46:615][ 53]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.17.46:636][ 53]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-09.17.46:636][ 53]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-09.17.46:743][ 55]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-09.17.59:833][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.17.59:833][805]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.17.59:911][805]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-09.17.59:960][805]LogWorld: UWorld::CleanupWorld for Cockpit, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.17.59:968][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.18.00:016][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-09.18.00:072][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.18.00:149][805]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-09.18.00:150][805]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-09.18.00:150][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.18.00:152][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.18.00:164][805]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-09.18.00:164][805]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.18.00:169][805]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2022.03.24-09.18.00:211][806]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.24-09.18.00:225][806]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.18.15:124][479]BlueprintLog: New page: Compile AmbientSoundCue
+[2022.03.24-09.18.15:202][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.03.24-09.18.16:053][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/AmbientSoundCue" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset" SILENT=true
+[2022.03.24-09.18.16:062][515]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/AmbientSoundCue42930FB84975DC19AD47C098DEA44C11.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/AmbientSoundCue.uasset'
+[2022.03.24-09.18.16:089][515]AssetCheck: New page: Asset Save: AmbientSoundCue
+[2022.03.24-09.18.16:089][515]LogContentValidation: Display: Validating Blueprint /Game/Interactables/AmbientSoundCue.AmbientSoundCue
+[2022.03.24-09.18.20:761][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-09.18.20:761][731]LogHMD: Initializing OVRPlugin session
+[2022.03.24-09.18.20:943][731]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-09.18.20:944][731]PIE: New page: PIE session: Cockpit (Mar 24, 2022, 1:18:20 AM)
+[2022.03.24-09.18.20:944][731]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.18.20:948][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004304s)
+[2022.03.24-09.18.20:948][731]LogAIModule: Creating AISystem for world Cockpit
+[2022.03.24-09.18.20:949][731]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2022.03.24-09.18.20:949][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cockpit.Cockpit to /Game/Maps/UEDPIE_0_Cockpit.Cockpit (0.005813s)
+[2022.03.24-09.18.20:990][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.03.24-09.18.20:992][731]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.03.24-09.18.20:992][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-09.18.20:992][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-09.18.20:992][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-09.18.20:992][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-09.18.20:992][731]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-09.18.20:992][731]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-09.18.20:992][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-09.18.20:992][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-09.18.20:993][731]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-09.18.20:993][731]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-09.18.20:993][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-09.18.20:993][731]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-09.18.21:001][731]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.18.21:001][731]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.18.21:010][731]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.18.21:010][731]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.18.21:017][731]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-09.18.21:017][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-09.18.21:017][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-09.18.21:018][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-09.18.21:018][731]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-09.18.21:018][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-09.18.21:018][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-09.18.21:020][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-09.18.21:020][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-09.18.21:020][731]LogInit: FAudioDevice initialized.
+[2022.03.24-09.18.21:020][731]LogAudio: Display: Audio Device (ID: 12) registered with world 'Cockpit'.
+[2022.03.24-09.18.21:038][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.18.21:055][731]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-09.18.21:118][731]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-09.18.21:122][731]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cockpit.Cockpit up for play (max tick rate 0) at 2022.03.24-05.18.21
+[2022.03.24-09.18.21:123][731]LogWorld: Bringing up level for play took: 0.002546
+[2022.03.24-09.18.21:123][731]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.03.24-09.18.21:132][731]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-09.18.21:134][731]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.18.21:143][731]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.18.21:166][731]PIE: Server logged in
+[2022.03.24-09.18.21:181][731]PIE: Play in editor total start time 0.423 seconds.
+[2022.03.24-09.18.21:183][731]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.18.21:210][731]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-09.18.21:210][731]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-09.18.21:292][733]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-09.19.09:581][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.19.09:581][ 54]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.19.09:669][ 54]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-09.19.09:728][ 54]LogWorld: UWorld::CleanupWorld for Cockpit, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.19.09:745][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.19.09:795][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-09.19.09:832][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.19.09:889][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.24-09.19.09:889][ 54]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-09.19.09:889][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.19.09:890][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.19.09:896][ 54]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-09.19.09:896][ 54]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.19.09:901][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.03.24-09.19.09:933][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.24-09.19.09:946][ 55]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.19.10:492][ 58]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.24-09.19.11:007][ 58]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.24-09.19.31:911][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.24-09.19.31:911][ 59]LogHMD: Initializing OVRPlugin session
+[2022.03.24-09.19.32:094][ 59]LogHMD: Allocating Oculus 2752 x 1376 rendertarget swapchain
+[2022.03.24-09.19.32:094][ 59]PIE: New page: PIE session: Cockpit (Mar 24, 2022, 1:19:32 AM)
+[2022.03.24-09.19.32:094][ 59]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.19.32:099][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004718s)
+[2022.03.24-09.19.32:101][ 59]LogAIModule: Creating AISystem for world Cockpit
+[2022.03.24-09.19.32:101][ 59]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2022.03.24-09.19.32:101][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cockpit.Cockpit to /Game/Maps/UEDPIE_0_Cockpit.Cockpit (0.005937s)
+[2022.03.24-09.19.32:144][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.03.24-09.19.32:145][ 59]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.03.24-09.19.32:145][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.24-09.19.32:145][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.24-09.19.32:146][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.24-09.19.32:146][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.24-09.19.32:146][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.24-09.19.32:146][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.24-09.19.32:146][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.24-09.19.32:146][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.24-09.19.32:146][ 59]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.24-09.19.32:146][ 59]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.24-09.19.32:146][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.24-09.19.32:146][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.24-09.19.32:155][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.19.32:155][ 59]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.19.32:164][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.24-09.19.32:164][ 59]LogAudioMixer: Display: 1: FrontRight
+[2022.03.24-09.19.32:172][ 59]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.03.24-09.19.32:172][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.24-09.19.32:172][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.24-09.19.32:172][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.24-09.19.32:172][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.24-09.19.32:173][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.24-09.19.32:173][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.24-09.19.32:174][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.24-09.19.32:174][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.24-09.19.32:174][ 59]LogInit: FAudioDevice initialized.
+[2022.03.24-09.19.32:174][ 59]LogAudio: Display: Audio Device (ID: 13) registered with world 'Cockpit'.
+[2022.03.24-09.19.32:190][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.19.32:204][ 59]LogHMD: Allocating Oculus 3136 x 1568 rendertarget swapchain
+[2022.03.24-09.19.32:248][ 59]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.24-09.19.32:251][ 59]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cockpit.Cockpit up for play (max tick rate 0) at 2022.03.24-05.19.32
+[2022.03.24-09.19.32:251][ 59]LogWorld: Bringing up level for play took: 0.002252
+[2022.03.24-09.19.32:251][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.03.24-09.19.32:253][ 59]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.24-09.19.32:254][ 59]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.19.32:256][ 59]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.19.32:262][ 59]PIE: Server logged in
+[2022.03.24-09.19.32:263][ 59]PIE: Play in editor total start time 0.353 seconds.
+[2022.03.24-09.19.32:265][ 59]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.19.32:274][ 59]LogHMD: Allocating Oculus 3136 x 1568 depth rendertarget swapchain
+[2022.03.24-09.19.32:274][ 59]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.24-09.19.32:300][ 61]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.24-09.20.01:870][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.24-09.20.01:870][687]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Cockpit
+[2022.03.24-09.20.01:964][687]LogSlate: Window 'SpaceShip Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.03.24-09.20.02:019][687]LogWorld: UWorld::CleanupWorld for Cockpit, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.20.02:026][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.20.02:061][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.24-09.20.02:091][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.20.02:165][687]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.24-09.20.02:165][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.20.02:167][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.24-09.20.02:173][687]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.24-09.20.02:173][687]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.24-09.20.02:177][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.03.24-09.20.02:213][688]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.03.24-09.20.02:226][688]LogEngine: Changing dynamic resolution state.
+[2022.03.24-09.20.44:992][686]LogEditorViewport: Clicking on Actor (LMB): AmbientSoundCue_C (AmbientSoundCue)
+[2022.03.24-09.21.11:786][949]LogEditorViewport: Clicking on Actor (LMB): Keyboard_C (Keyboard)
+[2022.03.24-09.21.17:540][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/Implementations/Keyboard.Keyboard
+[2022.03.24-09.24.19:028][482]BlueprintLog: New page: Compile Keyboard
+[2022.03.24-09.24.19:165][482]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.03.24-09.24.19:955][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Implementations/Keyboard" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/Keyboard.uasset" SILENT=true
+[2022.03.24-09.24.19:994][512]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/KeyboardD64F331F4620537B919CD2AD49108832.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Interactables/Implementations/Keyboard.uasset'
+[2022.03.24-09.24.20:968][512]AssetCheck: New page: Asset Save: Keyboard
+[2022.03.24-09.24.20:968][512]LogContentValidation: Display: Validating Blueprint /Game/Interactables/Implementations/Keyboard.Keyboard
+[2022.03.24-09.24.32:475][ 76]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG00000000 wave Dialogue2...
+[2022.03.24-09.24.32:664][ 76]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1398784 while cooking SoundWave /Game/Sounds/Dialogue2.Dialogue2.
+[2022.03.24-09.24.34:724][174]LogContentBrowser: Deferred new asset file creation: Dialogue2_Cue
+[2022.03.24-09.24.34:757][174]LogContentBrowser: Creating deferred item: Dialogue2_Cue
+[2022.03.24-09.24.35:944][234]LogContentBrowser: Attempting asset rename: Dialogue2_Cue -> Dialogue2_Cue
+[2022.03.24-09.24.35:945][234]LogContentBrowser: End creating deferred item Dialogue2_Cue
+[2022.03.24-09.25.22:415][ 94]AssetReimport: New page: Outstanding source content changes 1:25:22 AM
+[2022.03.24-09.25.23:356][ 94]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.wav)
+[2022.03.24-09.25.23:392][ 94]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.wav)
+[2022.03.24-09.25.23:423][ 94]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 D:/Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.wav)
+[2022.03.24-09.25.23:569][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/alarm" FILE="../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.uasset" SILENT=true
+[2022.03.24-09.25.23:582][ 95]LogSavePackage: Moving '../../../../../Workspace/Unreal/VRSpaceshipGame/Saved/alarmAC27B21A474791918CD46D911548E9B4.tmp' to '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.uasset'
+[2022.03.24-09.25.23:652][ 96]AssetCheck: New page: Asset Save: alarm
+[2022.03.24-09.25.23:652][ 96]LogContentValidation: Display: Validating FileMediaSource /Game/Sounds/alarm.alarm
+[2022.03.24-09.25.26:603][252]AssetReimport: Importing new asset /Game/Sounds/alarm.
+[2022.03.24-09.25.33:482][592]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Sounds/alarm.alarm
+[2022.03.24-09.25.36:644][747]LogSlate: Window 'alarm' being destroyed
+[2022.03.24-09.25.36:655][747]LogSlate: Window 'alarm' being destroyed
+[2022.03.24-09.25.36:662][747]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.25.36:663][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.25.36:825][747]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.24-09.25.36:825][747]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.25.36:825][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.25.36:904][747]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.24-09.25.36:904][747]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.25.36:904][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.25.36:973][747]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.24-09.25.36:974][747]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.25.36:974][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.25.37:033][747]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.24-09.25.37:033][747]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.25.37:033][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.25.37:113][747]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.24-09.25.37:113][747]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-09.25.37:113][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.24-09.25.58:442][917]LogSlate: Window 'Message' being destroyed
+[2022.03.24-09.25.58:449][917]Message dialog closed, result: Yes, title: Message, text: Do you want to replace the existing asset?
+
+An asset already exists at the import location: /Game/Sounds/alarm
+[2022.03.24-09.25.58:618][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.03.24-09.25.58:724][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.03.24-09.25.58:744][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.24-09.25.58:762][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.24-09.25.58:793][917]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.wav)
+[2022.03.24-09.25.58:810][917]Error: Unable to read wave file 'alarm' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.03.24-09.25.58:811][917]Error: Unrecognized sound format 'wav' in alarm
+[2022.03.24-09.26.00:280][917]LogSlate: Window 'Message' being destroyed
+[2022.03.24-09.26.00:286][917]Message dialog closed, result: Ok, title: Message, text: Failed to import '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.wav'. Failed to create asset '/Game/Sounds/alarm'.
+Please see Output Log for details.
+[2022.03.24-09.26.00:307][917]LogAssetTools: Warning: Failed to import '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.wav'. Failed to create asset '/Game/Sounds/alarm'.
+Please see Output Log for details.
+[2022.03.24-09.26.10:539][275]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.wav)
+[2022.03.24-09.26.10:551][275]Error: Unable to read wave file 'alarm' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.03.24-09.26.10:552][275]Error: Unrecognized sound format 'wav' in alarm
+[2022.03.24-09.26.13:082][275]LogSlate: Window 'Message' being destroyed
+[2022.03.24-09.26.13:089][275]Message dialog closed, result: Ok, title: Message, text: Failed to import '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.wav'. Failed to create asset '/Game/Sounds/alarm'.
+Please see Output Log for details.
+[2022.03.24-09.26.13:089][275]LogAssetTools: Warning: Failed to import '../../../../../Workspace/Unreal/VRSpaceshipGame/Content/Sounds/alarm.wav'. Failed to create asset '/Game/Sounds/alarm'.
+Please see Output Log for details.
+[2022.03.24-09.26.35:112][565]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../Workspace/Unreal/alarm.wav)
+[2022.03.24-09.26.35:125][565]Error: Unable to read wave file 'alarm' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.03.24-09.26.35:126][565]Error: Unrecognized sound format 'wav' in alarm
+[2022.03.24-09.26.36:827][565]LogSlate: Window 'Message' being destroyed
+[2022.03.24-09.26.36:834][565]Message dialog closed, result: Ok, title: Message, text: Failed to import '../../../../../Workspace/Unreal/alarm.wav'. Failed to create asset '/Game/Sounds/alarm'.
+Please see Output Log for details.
+[2022.03.24-09.26.36:834][565]LogAssetTools: Warning: Failed to import '../../../../../Workspace/Unreal/alarm.wav'. Failed to create asset '/Game/Sounds/alarm'.
+Please see Output Log for details.
+[2022.03.24-09.26.47:796][974]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../Workspace/Unreal/alarm.wav)
+[2022.03.24-09.26.47:814][974]Error: Unable to read wave file 'alarm' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.03.24-09.26.47:815][974]Error: Unrecognized sound format 'wav' in alarm
+[2022.03.24-09.26.50:725][974]LogSlate: Window 'Message' being destroyed
+[2022.03.24-09.26.50:733][974]Message dialog closed, result: Ok, title: Message, text: Failed to import '../../../../../Workspace/Unreal/alarm.wav'. Failed to create asset '/Game/alarm'.
+Please see Output Log for details.
+[2022.03.24-09.26.50:733][974]LogAssetTools: Warning: Failed to import '../../../../../Workspace/Unreal/alarm.wav'. Failed to create asset '/Game/alarm'.
+Please see Output Log for details.
+[2022.03.24-09.26.59:819][397]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'E_OUTOFMEMORY' (0x8007000E), falling back to legacy CreateSwapChain.
+[2022.03.24-09.26.59:822][397]LogD3D11RHI: Error: CreateSwapChainResult failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/Windows/WindowsD3D11Viewport.cpp:248 
+ with error E_OUTOFMEMORY
+[2022.03.24-09.27.01:998][397]LogConsoleResponse:     50 = 76832 KB (2D 3136x1568 PF_FloatRGBA RT 4xMSAA VRam) SceneColorDeferred unused(1) VRamInKB(Start/Size):<NONE>
+[2022.03.24-09.27.01:998][397]LogConsoleResponse:     36 = 48020 KB (2D 3136x1568 PF_DepthStencil 4xMSAA VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2022.03.24-09.27.01:998][397]LogConsoleResponse:     56 = 38416 KB (2D 3136x1568 PF_FloatRGBA RT 4xMSAA) DistortedSceneColor unused(1)
+[2022.03.24-09.27.01:998][397]LogConsoleResponse:     52 = 24010 KB (2D 3136x1568 PF_DepthStencil 4xMSAA) EditorPrimitivesDepth unused(1)
+[2022.03.24-09.27.01:998][397]LogConsoleResponse:     48 = 24010 KB (2D 3136x1568 PF_DepthStencil 4xMSAA) SelectionOutline unused(1)
+[2022.03.24-09.27.01:998][397]LogConsoleResponse:     55 = 19208 KB (2D 3136x1568 PF_B8G8R8A8 RT 4xMSAA VRam) Distortion unused(1) VRamInKB(Start/Size):<NONE>
+[2022.03.24-09.27.01:998][397]LogConsoleResponse:     51 = 19208 KB (2D 3136x1568 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor unused(1)
+[2022.03.24-09.27.01:998][397]LogConsoleResponse:     53 = 19208 KB (2D 3136x1568 PF_B8G8R8A8 RT 4xMSAA) ShadowMaskTexture unused(1)
+[2022.03.24-09.27.01:998][397]LogConsoleResponse:     47 = 19208 KB (2D 3136x1568 PF_B8G8R8A8 RT VRam) EditorPrimitives unused(1) VRamInKB(Start/Size):<NONE>
+[2022.03.24-09.27.01:998][397]LogConsoleResponse:     58 = 19208 KB (2D 3136x1568 PF_B8G8R8A8 RT VRam) SelectionOutlineColor unused(1) VRamInKB(Start/Size):<NONE>
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     54 = 19208 KB (2D 3136x1568 PF_B8G8R8A8 VRam) ShadowMaskTexture unused(1) VRamInKB(Start/Size):<NONE>
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     28 = 12288 KB (Cube 1024 PF_ShadowDepth) CubeShadowDepthZ
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     29 = 12288 KB (Cube 1024 PF_ShadowDepth) CubeShadowDepthZ
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     60 = 12288 KB (Cube 1024 PF_ShadowDepth) CubeShadowDepthZ unused(1)
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     49 = 12288 KB (Cube 1024 PF_ShadowDepth) CubeShadowDepthZ unused(1)
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     37 = 12005 KB (2D 1568x784 PF_DepthStencil) SmallDepthZ
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     32 = 9604 KB (2D 3136x784 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     57 = 4802 KB (2D 1568x784 PF_FloatRGB RT VRam) HalfResolutionSceneColor unused(1) VRamInKB(Start/Size):<NONE>
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     59 = 4802 KB (2D 3136x1568 PF_G8 RT UAV) ScreenSpaceAO unused(1)
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     38 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     45 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     40 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     46 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     44 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     39 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     34 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     33 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     43 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     11 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     31 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     30 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     41 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     22 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     19 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     23 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     20 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     24 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2022.03.24-09.27.01:999][397]LogConsoleResponse:     25 = 8 KB (3D 16x16x16 PF_R16F) GTAOPreIntegrated
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     42 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     35 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     26 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     15 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     16 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     21 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     27 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     18 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) HairLUT0
+[2022.03.24-09.27.02:000][397]LogConsoleResponse:     17 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2022.03.24-09.27.02:000][397]LogConsoleResponse: 
+[2022.03.24-09.27.02:000][397]LogConsoleResponse: Pool: 108/413 MB (referenced/allocated)
+[2022.03.24-09.27.02:000][397]Cmd: rhi.DumpMemory
+[2022.03.24-09.27.02:007][397]RHI resource memory (not tracked by our allocator)
+[2022.03.24-09.27.02:007][397]               0  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]         1908404  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]         8684542  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]        10728654  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]         1686752  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]       292618260  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]          180300  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]       100515055  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]        52559808  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]        12764885  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]  18446744073518656185  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2022.03.24-09.27.02:007][397]277.282MB total
+[2022.03.24-09.27.02:007][397]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.03.24-09.27.02:007][397]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 0)
+[2022.03.24-09.27.02:007][397]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.03.24-09.27.02:023][397]Log file closed, 03/24/22 05:27:02
